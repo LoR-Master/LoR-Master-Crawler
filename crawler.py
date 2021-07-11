@@ -76,6 +76,7 @@ def getTagByName(name):
 
 import git
 repo = git.Repo("")
+repo.git.config('--global', 'user.name', "LoR-Master-Tracker/LoR-Player-Crawler")
 repo.git.add(u=True)
 repo.git.commit('-m', 'test commit')
 
