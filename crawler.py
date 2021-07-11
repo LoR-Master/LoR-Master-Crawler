@@ -27,7 +27,7 @@ def save():
         json.dump(masterFullName, fp)
 
 def log():
-    with open('data.json', 'a') as fp:
+    with open('log.json', 'a') as fp:
         now = datetime.datetime.now()
         now.strftime("%B %d, %Y")
         fp.write(str(now))
