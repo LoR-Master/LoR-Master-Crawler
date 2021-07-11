@@ -44,12 +44,12 @@ jobs:
         python3 -m pip install --upgrade pip setuptools wheel
         python3 -m pip install -r requirements.txt
     # Generate all statistics images
-    - uses: actions/checkout@v2.1.0
+    - name: Generate images
       run: |
+        python3 --version
         python3 crawler.py
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-    - name: Print changelog
 
     # Commits all changed files to the repository
     - name: Commit to the repo
