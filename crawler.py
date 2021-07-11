@@ -86,7 +86,7 @@ def getFull():
     for name in masterNames:
         repo = git.Repo("")
         repo.git.add(u=True)
-        repo.git.commit('-m', now)
+        repo.git.commit('-m', now, author="shaobaili3@gmail.com")
         repo.git.push()
         tag = getTagByName(name)
         if tag is None:
