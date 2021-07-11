@@ -88,6 +88,7 @@ def getFull():
         repo = git.Repo("")
         repo.git.config('--global', 'user.name', "LoR-Master-Tracker/LoR-Player-Crawler")
         repo.git.add(u=True)
+        repo.git.add()
         repo.git.commit('-m', 'test commit')
         repo.git.push()
         tag = getTagByName(name)
