@@ -26,6 +26,10 @@ def save():
     with open('data.json', 'w+') as fp:
         json.dump(masterFullName, fp)
 
+def log():
+    with open('data.json', 'a') as fp:
+        now = datetime.datetime.now()
+        fp.write(now)
 
 def getMasterPlayersNames():
     for player in board:
@@ -85,6 +89,7 @@ repo.git.commit('-m', 'test commit')
 def getFull():
     print(masterNames)
     for name in masterNames:
+        log()
         repo = git.Repo("")
         repo.git.add(u=True)
         repo.git.commit('-m', now, author="shaobaili3@gmail.com")
