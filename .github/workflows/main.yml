@@ -44,7 +44,7 @@ jobs:
         python3 -m pip install --upgrade pip setuptools wheel
         python3 -m pip install -r requirements.txt
     # Generate all statistics images
-    - name: Generate images
+    - uses: actions/checkout@v2.1.0
     - run: |
         output=$(python3 crawler.py)
         output="${output//'%'/'%25'}"
