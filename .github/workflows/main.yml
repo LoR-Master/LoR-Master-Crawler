@@ -45,7 +45,7 @@ jobs:
         python3 -m pip install -r requirements.txt
     # Generate all statistics images
     - name: Generate images
-      run: |
+    - run: |
         output=$(python3 crawler.py)
         output="${output//'%'/'%25'}"
         output="${output//$'\n'/'%0A'}"
@@ -53,6 +53,8 @@ jobs:
         echo "::set-output name=changelog::$output"
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    - name: Print changelog
+      run: echo "${{ steps.step1.outputs.changelog }}"
 
     # Commits all changed files to the repository
     - name: Commit to the repo
