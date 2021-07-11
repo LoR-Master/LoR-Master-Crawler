@@ -27,7 +27,7 @@ def save():
         json.dump(masterFullName, fp)
 
 def log():
-    with open('log.json', 'a') as fp:
+    with open('log.txt', 'a') as fp:
         now = datetime.datetime.now()
         now.strftime("%B %d, %Y")
         fp.write(str(now))
@@ -80,10 +80,6 @@ def getTagByName(name):
     return tag
 
 import git
-repo = git.Repo("")
-
-
-
 
 def getFull():
     print(masterNames)
