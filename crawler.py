@@ -29,6 +29,7 @@ def save():
 def log():
     with open('data.json', 'a') as fp:
         now = datetime.datetime.now()
+        now.strftime("%B %d, %Y")
         fp.write(now)
 
 def getMasterPlayersNames():
