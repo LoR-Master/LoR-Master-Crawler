@@ -1,9 +1,3 @@
-import git
-repo = git.Repo("")
-repo.git.add(u=True)
-repo.git.commit('-m', 'test commit')
-
-
 from Models import riot
 from Models import network
 from Models import setting
@@ -12,8 +6,11 @@ from Models import player
 from Models import utility
 from Models import local
 from Models import leaderboard
-import json
 
+import json
+import datetime
+now = datetime.datetime.now()
+now.strftime("%B %d, %Y")
 
 def loadJson():
     try:
@@ -77,10 +74,20 @@ def getTagByName(name):
     print(name, tag)
     return tag
 
+import git
+repo = git.Repo("")
+repo.git.add(u=True)
+repo.git.commit('-m', 'test commit')
+
+
 
 def getFull():
     print(masterNames)
     for name in masterNames:
+        repo = git.Repo("")
+        repo.git.add(u=True)
+        repo.git.commit('-m', now)
+        repo.git.push()
         tag = getTagByName(name)
         if tag is None:
             continue

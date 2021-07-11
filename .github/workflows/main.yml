@@ -45,16 +45,11 @@ jobs:
         python3 -m pip install -r requirements.txt
     # Generate all statistics images
     - uses: actions/checkout@v2.1.0
-    - run: |
-        output=$(python3 crawler.py)
-        output="${output//'%'/'%25'}"
-        output="${output//$'\n'/'%0A'}"
-        output="${output//$'\r'/'%0D'}" 
-        echo "::set-output name=changelog::$output"
+      run: |
+        python3 crawler.py
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     - name: Print changelog
-      run: echo "${{ steps.step1.outputs.changelog }}"
 
     # Commits all changed files to the repository
     - name: Commit to the repo
