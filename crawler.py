@@ -1,3 +1,9 @@
+import git
+repo = git.Repo("")
+repo.git.add(u=True)
+repo.git.commit('-m', 'test commit')
+
+
 from Models import riot
 from Models import network
 from Models import setting
@@ -7,6 +13,7 @@ from Models import utility
 from Models import local
 from Models import leaderboard
 import json
+
 
 def loadJson():
     try:
@@ -81,6 +88,8 @@ def getFull():
         print(masterFullName)
         save()
         print('!!!!!!!!!', len(masterFullName), 'found')
+
+
 
 
 setting = setting.Setting()
