@@ -41,13 +41,9 @@ debugpy*.log
 pydevd*.log
 nodeLanguageServer/**
 nodeLanguageServer.*/**
-data/**
 app/
 .vscode/
 .vscode/settings.json
-data/matchDetails.json
-data/playerNames.json
-data/riotIds.json
 config.ini
 build/
 .idea

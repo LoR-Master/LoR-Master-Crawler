@@ -46,7 +46,7 @@ def getParticipantsPuuids(name, tag):
         return
 
     for matchid in matchIds:
-        if matchNum == 3:
+        if matchNum == 10:
             break
         details = riot.getDetail(matchid)
 
