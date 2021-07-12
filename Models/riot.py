@@ -79,7 +79,6 @@ class Riot:
 
     def getPuuidWithoutCache(self, name, tag):
         puuidLink = self.network.getPUUID(name, tag)
-        masterId = self.network.setting.riotServer + name + tag + puuidLink
         try:
             puuidRequest = self.session.get(puuidLink)
         except requests.exceptions.RequestException as e:
