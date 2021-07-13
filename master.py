@@ -60,6 +60,30 @@ setting.setServer(Server.NA)
 network = network.Network(setting)
 riot = riot.Riot(network)
 
-for index, name in enumerate(all):
+invalid = []
+changedName = []
+
+# for index, name in enumerate(all):
+#     puuid = riot.getPuuidWithoutCache(name[0], name[1])
+#     print(index, ':', name, puuid)
+#     if riot.getPlayerName(puuid) != name:
+#         changedName.append(name)
+#     if puuid is None:
+#         invalid.append(name)
+
+# print('Invalid:', invalid)
+# print('Changed Name', changedName)
+
+
+for index, name in enumerate(dict.items()):
     puuid = riot.getPuuidWithoutCache(name[0], name[1])
+    if puuid is None:
+        invalid.append(name[0])
+        # del dict[name[0]]
+        print(name, 'deleted!!!!!!!!!!!!!!!!!')
+        continue
     print(index, ':', name, puuid)
+
+for a in invalid:
+    del dict[a]
+

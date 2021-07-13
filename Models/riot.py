@@ -222,3 +222,31 @@ class Riot:
             self.playerNames[puuid] = name['gameName'], name['tagLine']
             self.save()
         return name['gameName'], (name['tagLine'])
+
+    def getPlayerNameWithoutCache(self, puuid):
+        nameLink = self.network.getNameLink(puuid)
+        try:
+            nameRequest = self.session.get(nameLink)
+        except requests.exceptions.RequestException as e:
+            print(nameLink)
+            print(e)
+            print('无法连接puuid->userId服务器')
+            return '名字Unknow', 'unknow'
+        name = nameRequest.json()
+        header = nameRequest.headers
+        #headers = nameRequest.headers
+        #print(headers)
+        if not nameRequest.ok:
+            print(nameLink)
+            print(nameRequest.headers)
+            print(nameRequest.status_code)
+            print(name)
+            print('puuid->userid服务器错误:')            
+            if 'Retry-After' in header:
+                print('服务器正忙,请等待', header['Retry-After'], '秒')
+                Models.network.switchAPI()
+            return None
+        else:
+            self.playerNames[puuid] = name['gameName'], name['tagLine']
+            self.save()
+        return name['gameName'], (name['tagLine'])
