@@ -6,8 +6,8 @@ name: Generate Stats Images
 on:
   push:
     branches: [ master ]
-  # schedule:
-  #   - cron: "0 */6 * * *"
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in
