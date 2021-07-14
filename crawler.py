@@ -11,6 +11,7 @@ import git
 import json
 import datetime
 import threading
+import time
 
 class Crawler:
     def __init__(self, server):
@@ -113,7 +114,7 @@ class Crawler:
     def getFull(self, masterNames):
         print(masterNames)
         for name in masterNames:
-            self.saveGithub()
+            #self.saveGithub()
             tag = self.getTagByName(name)
             if tag is None:
                 continue
@@ -130,7 +131,6 @@ class Crawler:
         repo.git.push()
 
 def f(s):
-    print('cnm')
     Crawler(s)
 
 
@@ -145,3 +145,19 @@ e.start()
 a = threading.Thread(target=f, args = (Server.ASIA,))
 a.start()
 
+def saveGithub():
+    with open('log.txt', 'a') as fp:
+        now = datetime.datetime.now()
+        now.strftime("%B %d, %Y")
+        fp.write(str(now) + '\n')
+    repo = git.Repo("")
+    repo.git.config('--global', 'user.name', "LMT[bot]")
+    repo.git.add('--all')
+    repo.git.commit('-m', 'test commit')
+    repo.git.push()
+
+
+while True:
+    print('Pushed################################')
+    saveGithub()
+    time.sleep(5)
