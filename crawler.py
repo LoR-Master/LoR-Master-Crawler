@@ -138,10 +138,10 @@ n = threading.Thread(target=f, args = (Server.NA,))
 n.start()
 
 
-e = threading.Thread(target=f, args = (Server.EU,))
-e.start()
+# e = threading.Thread(target=f, args = (Server.EU,))
+# e.start()
 
 
-a = threading.Thread(target=f, args = (Server.ASIA,))
-a.start()
+# a = threading.Thread(target=f, args = (Server.ASIA,))
+# a.start()
 
