@@ -57,7 +57,7 @@ jobs:
       run: |
         # git config --global user.name "LoR-Master-Tracker/LoR-Player-Crawler"
         # git config --global user.email "github-stats[bot]@jstrieb.github.io"
-        git add .
-        # "echo" returns true so the build succeeds, even if no changed files
-        git commit -m 'Update generated files' || echo
-        git push
+        # git add .
+        # # "echo" returns true so the build succeeds, even if no changed files
+        # git commit -m 'Update generated files' || echo
+        # git push

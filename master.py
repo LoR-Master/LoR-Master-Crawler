@@ -15,7 +15,7 @@ def loadJson():
 def save():
     with open('data.json', 'w+') as fp:
         global dict
-        json.dump(dict, fp)
+        json.dump(dict, fp, indent=2)
 
 leaderboard.updateAll()
 
@@ -78,9 +78,13 @@ def checkName(all):
     print('Invalid:', invalid)
     print('Changed Name', changedName)
 
-# wrong = checkName(dict)
+def start(dict, save, checkName):
+    wrong = checkName(dict)
 
-# for a in wrong:
-#     del dict[a[0]]
+    for a in wrong:
+        del dict[a[0]]
 
-# save()
+    save()
+
+#start(dict, save, checkName)
+save()

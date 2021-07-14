@@ -24,7 +24,7 @@ def loadJson():
 
 def save():
     with open('data.json', 'w+') as fp:
-        json.dump(masterFullName, fp)
+        json.dump(masterFullName, fp, indent=2)
 
 def log():
     with open('log.txt', 'a') as fp:
@@ -86,7 +86,7 @@ def getFull():
     for name in masterNames:
         log()
         repo = git.Repo("")
-        repo.git.config('--global', 'user.name', "LoR-Master-Tracker/LoR-Player-Crawler")
+        repo.git.config('--global', 'user.name', "LMT[bot]")
         repo.git.add('--all')
         repo.git.commit('-m', 'test commit')
         repo.git.push()
