@@ -124,7 +124,7 @@ class Crawler:
     def saveGithub(self):
         self.createLog()
         repo = git.Repo("")
-        repo.git.config('--global', 'user.name', "LMT[bot]")
+        repo.git.config('--global', 'user.name', "LMT[bot]" + self.server)
         repo.git.add('--all')
         repo.git.commit('-m', 'test commit')
         repo.git.push()
