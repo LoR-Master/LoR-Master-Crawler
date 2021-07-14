@@ -7,110 +7,127 @@ from Models import utility
 from Models import local
 from Models import leaderboard
 
+import git
 import json
 import datetime
-now = datetime.datetime.now()
-now.strftime("%B %d, %Y")
 
-def loadJson():
-    try:
-        with open('data.json', 'r') as fp:
-            global masterFullName
-            masterFullName = json.load(fp)
-    except IOError as e:
-        print('No cache found', e)
-        return
+class Crawler:
+    def __init__(self):
+        self.server = Server.ASIA
+        self.setting = setting.Setting()
+        self.setting.setServer(self.server)
+        self.network = network.Network(setting)
+        self.riot = riot.Riot(network)
+        # asia europe americas
+        leaderboard.updateAll()
+        self.board = leaderboard.leaderboards[0]['players']
 
-
-def save():
-    with open('data.json', 'w+') as fp:
-        json.dump(masterFullName, fp, indent=2)
-
-def log():
-    with open('log.txt', 'a') as fp:
-        now = datetime.datetime.now()
-        now.strftime("%B %d, %Y")
-        fp.write(str(now))
-
-def getMasterPlayersNames():
-    for player in board:
-        masterNames.append(player['name'])
-
-def getParticipantsPuuids(name, tag):
-    puuid = riot.getPlayerPUUID(name, tag)
-    matchIds = riot.getMatchs(puuid)
-    winNum = 0
-    matchNum = 0
-    if matchIds is None:
-        print("MatchIDs empty", name, tag)
-        return
-
-    for matchid in matchIds:
-        if matchNum == 10:
-            break
-        details = riot.getDetail(matchid)
-
-        if details is None:
-            continue
-
-        #To-do add retry here
-        if str(details).isdigit():
-            continue
-
-        if details['info']['game_type'] != 'Ranked':
-            continue
-
-        # print(details)
-        twoPuuid = details['metadata']['participants']
-        for count, puuid in enumerate(twoPuuid):
-            name = riot.getPlayerName(puuid)
-            print(name)
-            masterFullName[name[0]] = name[1]
-            full = [name[0], name[1]]
-            save()
+        self.masterFullName = {}
+        self.localTag = local.Local(setting)
+        self.loadJson()
+        self.getFull(self.getMasterPlayersNames())
 
 
-def getTagByName(name):
-    tag = masterFullName.get(name)
-    if tag is None:
-        localTag.updateTagByName(name)
-        tag = localTag.opponentTag
-        print(name, tag, 'From YI list')
-    print(name, tag)
-    return tag
+    def loadJson(self):
+        try:
+            with open( self.server + '.json', 'r') as fp:
+                global masterFullName
+                masterFullName = json.load(fp)
+        except IOError as e:
+            print('No cache found', e)
+            return
 
-import git
 
-def getFull():
-    print(masterNames)
-    for name in masterNames:
-        log()
+    def save(self):
+        with open(self.server + '.json', 'w+') as fp:
+            json.dump(masterFullName, fp, indent=2)
+
+
+    def createLog(self):
+        with open('log.txt', 'a') as fp:
+            now = datetime.datetime.now()
+            now.strftime("%B %d, %Y")
+            fp.write(str(now) + '\n')
+
+
+    def getMasterPlayersNames(self):
+        masterNames = []
+        for player in self.board:
+            masterNames.append(player['name'])
+        return masterNames
+
+
+    def getNameFromMatches(self, name, tag):
+        puuid = self.riot.getPlayerPUUID(name, tag)
+        matchIds = self.riot.getMatchs(puuid)
+        winNum = 0
+        matchNum = 0
+        if matchIds is None:
+            print("MatchIDs empty", name, tag)
+            return
+
+        for matchid in matchIds:
+            if matchNum == 10:
+                break
+            details = self.riot.getDetail(matchid)
+
+            if details is None:
+                continue
+
+            # To-do add retry here
+            if str(details).isdigit():
+                continue
+
+            if details['info']['game_type'] != 'Ranked':
+                continue
+
+            # print(details)
+            twoPuuid = details['metadata']['participants']
+            for count, puuid in enumerate(twoPuuid):
+                name = self.riot.getPlayerName(puuid)
+                print(name)
+                masterFullName[name[0]] = name[1]
+                full = [name[0], name[1]]
+                self.save()
+
+
+    def updateTagByName(self, name):
+        with open(('Resource/' + self.setting.getServer() + '.dat'),
+                encoding="utf8") as search:
+            for line in search:
+                fullName = line.rstrip().split('#')
+                if name == fullName[0]:
+                    return fullName[1]
+        return None
+
+
+    def getTagByName(self, name):
+        tag = self.masterFullName.get(name)
+        if tag is None:
+            tag = self.localTag.updateTagByName(name)
+            print(name, tag, 'From YI list')
+        print('getTagByName: ', name, tag)
+        return tag
+
+
+    def getFull(self, masterNames):
+        print(masterNames)
+        for name in masterNames:
+            self.saveGithub()
+            tag = self.getTagByName(name)
+            if tag is None:
+                continue
+            self.getNameFromMatches(name, tag)
+            print(masterFullName)
+            print('!!!!!!!!!', len(masterFullName), 'found')
+
+    def saveGithub(self):
+        self.createLog()
         repo = git.Repo("")
         repo.git.config('--global', 'user.name', "LMT[bot]")
         repo.git.add('--all')
         repo.git.commit('-m', 'test commit')
         repo.git.push()
-        tag = getTagByName(name)
-        if tag is None:
-            continue
-        getParticipantsPuuids(name, tag)
-        print(masterFullName)
-        save()
-        print('!!!!!!!!!', len(masterFullName), 'found')
 
 
-
-
-setting = setting.Setting()
-setting.setServer(Server.NA)
-network = network.Network(setting)
-riot = riot.Riot(network)
-# asia europe americas
-leaderboard.updateAll()
-board = leaderboard.leaderboards[0]['players']
-masterNames = []
-masterFullName = {}
-localTag = local.Local(setting)
-loadJson()
-getMasterPlayersNames()
-getFull()
+Crawler()
