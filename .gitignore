@@ -48,4 +48,5 @@ config.ini
 build/
 .idea
 venv/
-Models/key.py
+data/playerNames.json
+data/riotIds.json
