@@ -13,15 +13,14 @@ import datetime
 
 class Crawler:
     def __init__(self):
-        self.server = Server.ASIA
+        self.server = Server.NA
         self.setting = setting.Setting()
         self.setting.setServer(self.server)
-        self.network = network.Network(setting)
-        self.riot = riot.Riot(network)
+        self.network = network.Network(self.setting)
+        self.riot = riot.Riot(self.network)
         # asia europe americas
         leaderboard.updateAll()
         self.board = leaderboard.getboard(self.server)
-
         self.masterFullName = {}
         self.localTag = local.Local(setting)
         self.loadJson()
@@ -30,9 +29,8 @@ class Crawler:
 
     def loadJson(self):
         try:
-            with open( self.server + '.json', 'r') as fp:
-                global masterFullName
-                masterFullName = json.load(fp)
+            with open(self.server + '.json', 'r') as fp:
+                self.masterFullName = json.load(fp)
         except IOError as e:
             print('No cache found', e)
             return
@@ -40,7 +38,7 @@ class Crawler:
 
     def save(self):
         with open(self.server + '.json', 'w+') as fp:
-            json.dump(masterFullName, fp, indent=2)
+            json.dump(self.masterFullName, fp, indent=2)
 
 
     def createLog(self):
@@ -86,7 +84,7 @@ class Crawler:
             for count, puuid in enumerate(twoPuuid):
                 name = self.riot.getPlayerName(puuid)
                 print(name)
-                masterFullName[name[0]] = name[1]
+                self.masterFullName[name[0]] = name[1]
                 full = [name[0], name[1]]
                 self.save()
 
@@ -113,13 +111,13 @@ class Crawler:
     def getFull(self, masterNames):
         print(masterNames)
         for name in masterNames:
-            self.saveGithub()
+            #self.saveGithub()
             tag = self.getTagByName(name)
             if tag is None:
                 continue
             self.getNameFromMatches(name, tag)
-            print(masterFullName)
-            print('!!!!!!!!!', len(masterFullName), 'found')
+            print(self.masterFullName)
+            print('!!!!!!!!!', len(self.masterFullName), 'found')
 
     def saveGithub(self):
         self.createLog()
