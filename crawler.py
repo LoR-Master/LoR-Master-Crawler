@@ -160,4 +160,4 @@ def saveGithub():
 while True:
     print('Pushed################################')
     saveGithub()
-    time.sleep(5)
+    time.sleep(1200)
