@@ -43,9 +43,11 @@ for name in masterNames:
         print(name, dict[name])
         all.append([name, dict[name]])
     else:
-        noName.append(name)
-print(len(dict))
-print(len(all))
+        noName.append(name + ' ' + str(masterNames.index(name)))
+print('All Found: ', len(dict))
+print('master: ', len(masterNames))
+print('master found', len(all))
+
 print(noName)
 
 
