@@ -92,7 +92,7 @@ class Crawler:
 
 
     def updateTagByName(self, name):
-        with open(('Resource/' + self.setting.getServer() + '.dat'),
+        with open(('Resource/' + self.server + '.dat'),
                 encoding="utf8") as search:
             for line in search:
                 fullName = line.rstrip().split('#')
