@@ -20,7 +20,7 @@ class Crawler:
         self.riot = riot.Riot(network)
         # asia europe americas
         leaderboard.updateAll()
-        self.board = leaderboard.leaderboards[0]['players']
+        self.board = leaderboard.getboard(self.server)
 
         self.masterFullName = {}
         self.localTag = local.Local(setting)
