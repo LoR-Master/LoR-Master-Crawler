@@ -10,10 +10,12 @@ from Models import leaderboard
 import git
 import json
 import datetime
+import threading
 
 class Crawler:
-    def __init__(self):
-        self.server = Server.NA
+    def __init__(self, server):
+        #self.server = Server.NA
+        self.server = server
         self.setting = setting.Setting()
         self.setting.setServer(self.server)
         self.network = network.Network(self.setting)
@@ -111,7 +113,7 @@ class Crawler:
     def getFull(self, masterNames):
         print(masterNames)
         for name in masterNames:
-            #self.saveGithub()
+            self.saveGithub()
             tag = self.getTagByName(name)
             if tag is None:
                 continue
@@ -127,5 +129,19 @@ class Crawler:
         repo.git.commit('-m', 'test commit')
         repo.git.push()
 
+def f(s):
+    print('cnm')
+    Crawler(s)
 
-Crawler()
+
+n = threading.Thread(target=f, args = (Server.NA,))
+n.start()
+
+
+e = threading.Thread(target=f, args = (Server.EU,))
+e.start()
+
+
+a = threading.Thread(target=f, args = (Server.ASIA,))
+a.start()
+
