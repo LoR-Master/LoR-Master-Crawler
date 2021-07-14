@@ -97,6 +97,7 @@ class Riot:
             if 'Retry-After' in header:
                 print('puuid busy', header['Retry-After'], '秒')
                 Models.network.switchAPI()
+                return header['Retry-After']
             return None
         else:
             puuid = idDetails.get('puuid') 
