@@ -104,7 +104,7 @@ class Crawler:
     def getTagByName(self, name):
         tag = self.masterFullName.get(name)
         if tag is None:
-            tag = self.localTag.updateTagByName(name)
+            tag = self.updateTagByName(name)
             print(name, tag, 'From YI list')
         print('getTagByName: ', name, tag)
         return tag
