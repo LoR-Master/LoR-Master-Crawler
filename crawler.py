@@ -40,8 +40,8 @@ class Crawler:
 
 
     def save(self):
-        with open(self.server + '.json', 'w+') as fp:
-            json.dump(self.masterFullName, fp, indent=2)
+        with open(self.server + '.json', 'w+', encoding='utf-8') as fp:
+            json.dump(self.masterFullName, fp, ensure_ascii=False, indent=2)
 
 
     def createLog(self):
