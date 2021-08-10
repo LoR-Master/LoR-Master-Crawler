@@ -170,11 +170,6 @@ def saveGithub():
     repo.git.add('--all')
     repo.git.commit('-m', 'test commit')
     repo.git.push()
-
-
-saveGithub()
-
-
 while True:
     print('Pushed################################')
     saveGithub()
