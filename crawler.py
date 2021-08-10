@@ -175,7 +175,7 @@ def saveGithub():
 saveGithub()
 
 
-while True:
-    print('Pushed################################')
-    saveGithub()
-    time.sleep(1200)
+# while True:
+#     print('Pushed################################')
+#     saveGithub()
+#     time.sleep(1200)
