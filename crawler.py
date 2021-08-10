@@ -134,16 +134,16 @@ def f(s):
     Crawler(s)
 
 
-n = threading.Thread(target=f, args = (Server.NA,))
-n.start()
+# n = threading.Thread(target=f, args = (Server.NA,))
+# n.start()
 
 
-e = threading.Thread(target=f, args = (Server.EU,))
-e.start()
+# e = threading.Thread(target=f, args = (Server.EU,))
+# e.start()
 
 
-a = threading.Thread(target=f, args = (Server.ASIA,))
-a.start()
+# a = threading.Thread(target=f, args = (Server.ASIA,))
+# a.start()
 
 def validateJSONFile(filePath):
     try:
