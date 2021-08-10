@@ -145,7 +145,22 @@ e.start()
 a = threading.Thread(target=f, args = (Server.ASIA,))
 a.start()
 
+def validateJSONFile(filePath):
+    try:
+        with open(filePath) as f:
+            return json.load(f)
+    except ValueError as e:
+        print(filePath + 'invalid json: %s' % e)
+        return None
+
+    
+jsonFileName = ['americas.json', 'asia.json', 'asia.json', 'americasmatchDetails.json', 'europematchDetails.json', 'asiamatchDetails.json']
+
 def saveGithub():
+    for fileName in jsonFileName:
+        if validateJSONFile(fileName) is None:
+            print('one or json files invalidated')
+            return
     with open('log.txt', 'a') as fp:
         now = datetime.datetime.now()
         now.strftime("%B %d, %Y")
@@ -155,6 +170,9 @@ def saveGithub():
     repo.git.add('--all')
     repo.git.commit('-m', 'test commit')
     repo.git.push()
+
+
+saveGithub()
 
 
 while True:
