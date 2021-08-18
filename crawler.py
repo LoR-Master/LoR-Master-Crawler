@@ -84,11 +84,12 @@ class Crawler:
 
             # print(details)
             twoPuuid = details['metadata']['participants']
-            for count, puuid in enumerate(twoPuuid):
+            for puuid in twoPuuid:
                 name = self.riot.getPlayerName(puuid)
                 print(name)
-                self.masterFullName[name[0]] = name[1]
-                full = [name[0], name[1]]
+                # check if name or tag is None
+                if name[0] is not None and name[1] is not None:
+                    self.masterFullName[name[0]] = name[1]
                 self.save()
 
 
