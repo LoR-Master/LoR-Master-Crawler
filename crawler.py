@@ -150,7 +150,7 @@ def validateJSONFile(filePath):
     try:
         with open(filePath) as f:
             return json.load(f)
-    except ValueError as e:
+    except Exception as e:
         print(filePath + 'invalid json: %s' % e)
         return None
 
