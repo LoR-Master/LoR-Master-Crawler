@@ -23,11 +23,11 @@ class Riot:
 
     def loadJson(self):
         try:
-            with open(self.server + 'matchDetails.json', 'r') as fp:
+            with open(self.server + 'save/matchDetails.json', 'r', encoding='utf-8') as fp:
                 self.matchDetails = json.load(fp)
-            with open('data/' + self.server + 'riotIds.json', 'r') as fp:
+            with open('data/' + self.server + 'riotIds.json', 'r', encoding='utf-8') as fp:
                 self.riotIds = json.load(fp)
-            with open('data/' + self.server + 'playerNames.json', 'r') as fp:
+            with open('data/' + self.server + 'playerNames.json', 'r', encoding='utf-8') as fp:
                 self.playerNames = json.load(fp)
         except IOError as e:
             print('No cache found', e)
@@ -35,11 +35,11 @@ class Riot:
 
     def save(self):
         os.makedirs('data', exist_ok=True)
-        with open(self.server + 'matchDetails.json', 'w+') as fp:
+        with open(self.server + 'matchDetails.json', 'w+', encoding='utf-8') as fp:
             json.dump(self.matchDetails, fp)
-        with open('data/' + self.server + 'riotIds.json', 'w+') as fp:
+        with open('data/' + self.server + 'riotIds.json', 'w+', encoding='utf-8') as fp:
             json.dump(self.riotIds, fp)
-        with open('data/' + self.server + 'playerNames.json', 'w+') as fp:
+        with open('data/' + self.server + 'playerNames.json', 'w+', encoding='utf-8') as fp:
             json.dump(self.playerNames, fp)
 
     # Should not use cache, because you cannot identify capital letters of playernames

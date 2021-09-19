@@ -19,4 +19,20 @@ for key in matches:
 
 print('ranked matches: ', len(rankMatches))
 
+def validateJSONFile(filePath):
+    try:
+        with open(filePath) as f:
+            return json.load(f)
+    except Exception as e:
+        print(filePath + 'invalid json: %s' % e)
+        return None
 
+jsonFileName = ['americas.json', 'asia.json', 'asia.json', 'americasmatchDetails.json', 'europematchDetails.json', 'asiamatchDetails.json']
+
+
+def saveGithub():
+    for fileName in jsonFileName:
+        if validateJSONFile(fileName) is None:
+            print(fileName, 'invalidated')
+
+saveGithub()
