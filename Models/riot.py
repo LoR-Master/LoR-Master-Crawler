@@ -185,6 +185,8 @@ class Riot:
             if 'Retry-After' in header:
                 print('服务器正忙,请等待', header['Retry-After'], '秒')
                 second = header['Retry-After']
+
+                # switchAPI will make crawler sleep
                 Models.network.switchAPI(second)
                 return second
             return None
