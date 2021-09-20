@@ -48,7 +48,7 @@ class Check:
             return
 
     def save(self):
-        with open(self.server + '.json', 'w+', encoding='utf-8') as fp:
+        with open('save/' + self.server + '.json', 'w+', encoding='utf-8') as fp:
             json.dump(self.dict, fp, ensure_ascii=False, indent=2)
 
     def getMasterPlayersNames(self):
@@ -56,7 +56,7 @@ class Check:
         for player in self.board:
             #print(player)
             self.masterNames.append(player['name'])
-        print(self.masterNames)
+        #print(self.masterNames)
 
     def showNum(self):
         for name in self.masterNames:
