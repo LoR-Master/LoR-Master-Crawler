@@ -131,7 +131,7 @@ def validateJSONFile(filePath):
         with open(filePath) as f:
             dataDict = json.load(f)
             os.makedirs('save', exist_ok=True)
-            with open('sava/' + filePath, 'w+', encoding='utf-8') as fp:
+            with open('save/' + filePath, 'w+', encoding='utf-8') as fp:
                 json.dump(dataDict, fp)
     except Exception as e:
         print(filePath, 'invalid json!')
