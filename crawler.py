@@ -65,10 +65,6 @@ class Crawler:
             if details is None:
                 continue
 
-            # To-do add retry here
-            if str(details).isdigit():
-                continue
-
             if details['info']['game_type'] != 'Ranked':
                 continue
 
