@@ -3,9 +3,6 @@ from Models import riot
 from Models import network
 from Models import setting
 from Models.setting import Server
-from Models import player
-from Models import utility
-from Models import local
 from Models import leaderboard
 import threading
 import json
@@ -41,7 +38,7 @@ class Check:
 
     def loadJson(self):
         try:
-            with open(self.server + '.json', 'r') as fp:
+            with open('save/' + self.server + '.json', 'r') as fp:
                 self.dict = json.load(fp)
         except IOError as e:
             print('No cache found', e)
@@ -61,7 +58,7 @@ class Check:
     def showNum(self):
         for name in self.masterNames:
             if name in self.dict:
-                print(name, self.dict[name])
+                #print(name, self.dict[name])
                 self.all.append([name, self.dict[name]])
             else:
                 self.noName.append(name + ' ' + str(self.masterNames.index(name)))
@@ -76,7 +73,7 @@ class Check:
         for name in self.dict.items():
             puuid = self.riot.getPuuidWithoutCache(name[0], name[1])
             if puuid is None:
-                print(name)
+                # print(name)
                 invalid.append(name)
                 continue
         return invalid
