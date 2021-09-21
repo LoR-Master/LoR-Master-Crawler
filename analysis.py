@@ -2,7 +2,7 @@ import json
 
 def loadJson():
     try:
-        with open('europeMatchDetails' + '.json', 'r') as fp:
+        with open('save/americasmatchDetails.json', 'r') as fp:
             matches = json.load(fp)
             print('total matches: ', len(matches))
             return matches
