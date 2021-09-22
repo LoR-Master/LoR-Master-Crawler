@@ -41139,5 +41139,3353 @@
       ],
       "total_turn_count": 35
     }
+  },
+  "4c1219b1-e9f6-4d51-a041-4d074082d77c": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "4c1219b1-e9f6-4d51-a041-4d074082d77c",
+      "participants": [
+        "fZKnSu0mmjuWxuv9mrwFmajlLHNZgTbjAcgoe9pOOiDWSa5GCAZknl4BdzpjPMbPkQuoN-z8aLM6tA",
+        "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T18:10:29.7765584+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "fZKnSu0mmjuWxuv9mrwFmajlLHNZgTbjAcgoe9pOOiDWSa5GCAZknl4BdzpjPMbPkQuoN-z8aLM6tA",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CMBQCAYABYBACAAJDUCQIBYUGY3V2ZYDAEBAAAIBAQAAEBAEA4GYAAMBAGFACAQBAMAAMAYBAANCAJI",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CQCQCAYCAIAQGBASAECAIEADAECBYJZNAUCQUKLPOSTQDLYBAIAQCBAMAECQVBABAIAQCBABAICQVEQBUYAQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "909daeae-a6b6-4061-95fa-2932f1e16bee": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "909daeae-a6b6-4061-95fa-2932f1e16bee",
+      "participants": [
+        "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+        "fZKnSu0mmjuWxuv9mrwFmajlLHNZgTbjAcgoe9pOOiDWSa5GCAZknl4BdzpjPMbPkQuoN-z8aLM6tA"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T18:04:47.3377694+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CQCQCAYCAIAQGBASAECAIEADAECBYJZNAUCQUKLPOSTQDLYBAIAQCBAMAECQVBABAIAQCBABAICQVEQBUYAQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "fZKnSu0mmjuWxuv9mrwFmajlLHNZgTbjAcgoe9pOOiDWSa5GCAZknl4BdzpjPMbPkQuoN-z8aLM6tA",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CEBQCAYECIDACAYHBEGBIJZXAYAQIDANDQTSQLIAAEAQCBAB",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 21
+    }
+  },
+  "d128b251-ce95-4370-a359-ed02c70db99d": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "d128b251-ce95-4370-a359-ed02c70db99d",
+      "participants": [
+        "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+        "kOZaPnxEQNzKDt8OhveSfsX35fkBVQVYr4OdgWkREQGiWqgz-tBzZN0X1SEW2pRA0XIKdJQ-rAojCg"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:37:06.3279453+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CQBQCBIGAECQKCQHIVEWBJQBAYBAMBA2D4QC2PACAEBAMEQBAUFBUAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "kOZaPnxEQNzKDt8OhveSfsX35fkBVQVYr4OdgWkREQGiWqgz-tBzZN0X1SEW2pRA0XIKdJQ-rAojCg",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CMBQCAYABYBACAAJDUCQIBYUGZTYCAMCAECACAIADIAQEAABAECAAAQEAQDQ2XMAAGFACAQBAEACKAIEAABQ",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 28
+    }
+  },
+  "50ee9ef5-9e13-4681-b35e-05b21e4bbe87": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "50ee9ef5-9e13-4681-b35e-05b21e4bbe87",
+      "participants": [
+        "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+        "kOZaPnxEQNzKDt8OhveSfsX35fkBVQVYr4OdgWkREQGiWqgz-tBzZN0X1SEW2pRA0XIKdJQ-rAojCg"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:24:01.6841123+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "izHKOn_SM0yIgwUDzbm31raNz7_bqAr9bt4wmCsZ-llpsrfLyOuljV5cDlyGxSaqPLxE4-xEk4CXjQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CQCQCAYCAIAQGBASAECAIEADAECBYJZNAUCQUKLPOSTQDLYBAIAQCBAMAECQVBABAIAQCBABAICQVEQBUYAQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "kOZaPnxEQNzKDt8OhveSfsX35fkBVQVYr4OdgWkREQGiWqgz-tBzZN0X1SEW2pRA0XIKdJQ-rAojCg",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CICACAQBAIAQGBQIAECAMCQHAIDAWFBAEEWTUPACAECQMAIDAIDAEIRGAIAQEBQSAECACCQ",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 29
+    }
+  },
+  "622b7a42-1c76-4b9e-bf98-820cac28b1c0": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "622b7a42-1c76-4b9e-bf98-820cac28b1c0",
+      "participants": [
+        "717kmr41SHG1L2cXM802GyecsjEwNWv1nuE33yF5OlD1jtFinQ4PD38Fh_H1Bgz-QXm-Y9oEVAk4Hg",
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:55:11.0347627+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "717kmr41SHG1L2cXM802GyecsjEwNWv1nuE33yF5OlD1jtFinQ4PD38Fh_H1Bgz-QXm-Y9oEVAk4Hg",
+          "deck_id": "9964348f-eeb9-4fbc-88a2-7b576b40cccc",
+          "deck_code": "CECQCAQEBAAQKAYNAIBQGAYHAIBQIBISAMAQIAJHFUCQCAIEEYAQIAYWAECQGCIBAUCBIAQDAMAQ6AIBAQCBA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "0f300ba3-f211-4ff0-b1f7-71b3a95ee097",
+          "deck_code": "CQBQCBIGAECQKCQHIVEWBJQBAYBAMBA2D4QC2PACAEBAMEQBAUFBUAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 27
+    }
+  },
+  "20827916-6a1b-4e5b-8000-4a8773619571": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "20827916-6a1b-4e5b-8000-4a8773619571",
+      "participants": [
+        "717kmr41SHG1L2cXM802GyecsjEwNWv1nuE33yF5OlD1jtFinQ4PD38Fh_H1Bgz-QXm-Y9oEVAk4Hg",
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:48:32.4810474+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "717kmr41SHG1L2cXM802GyecsjEwNWv1nuE33yF5OlD1jtFinQ4PD38Fh_H1Bgz-QXm-Y9oEVAk4Hg",
+          "deck_id": "9964348f-eeb9-4fbc-88a2-7b576b40cccc",
+          "deck_code": "CECQCAQEBAAQKAYNAIBQGAYHAIBQIBISAMAQIAJHFUCQCAIEEYAQIAYWAECQGCIBAUCBIAQDAMAQ6AIBAQCBA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "0f300ba3-f211-4ff0-b1f7-71b3a95ee097",
+          "deck_code": "CQBQCBIGAECQKCQHIVEWBJQBAYBAMBA2D4QC2PACAEBAMEQBAUFBUAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 28
+    }
+  },
+  "36cb6b79-bd99-484f-acf8-65dccbd2869e": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "36cb6b79-bd99-484f-acf8-65dccbd2869e",
+      "participants": [
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+        "q5Ixc3AOnOfTpOZgAbYnxwNWUdLCgRXQ8S06shccO_f_ljcjaiIhi3qGd1xvQEwP6aSJ4wSg9-CRmw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:33:07.8467103+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "162a0ea4-126f-46ad-a922-1cfe0717b0b7",
+          "deck_code": "CQBQCBIKV4AQGAQCAMDASBIDBEERWIZTLQCACAQCAUAQGAQUAEBQSEYCAEBAEDACAEAQEMICAMEVLVYB",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "q5Ixc3AOnOfTpOZgAbYnxwNWUdLCgRXQ8S06shccO_f_ljcjaiIhi3qGd1xvQEwP6aSJ4wSg9-CRmw",
+          "deck_id": "f01dfc4d-496b-4f6e-96cc-32de5977bc58",
+          "deck_code": "CECACAIFFAAQIAIOAIBQCBQWAUAQCAIDBQTTEAQBAEARIAYBAUHRSHICAEAQCCYEAECQCEZBFM",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 22
+    }
+  },
+  "1904868e-90da-4b72-bbc9-7c4a562685c9": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "1904868e-90da-4b72-bbc9-7c4a562685c9",
+      "participants": [
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+        "7e3TsQ8WKNG0PzkuxC5dOug1svBzEsh3sIJpwOpsNyKOYh_7sEw26l-hxhESfche15oQfn0g1UbQQQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:27:16.1463716+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "eb6f7fe9-11f9-4296-8754-caac9522e200",
+          "deck_code": "CMBQCAIBGIBQIAIBAUHAIBAHBUPSYQQDAEAQCFACAQAQMCQCAQDUS2ADAECACCICAEAQCCYDAQDSEO3Y",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "7e3TsQ8WKNG0PzkuxC5dOug1svBzEsh3sIJpwOpsNyKOYh_7sEw26l-hxhESfche15oQfn0g1UbQQQ",
+          "deck_id": "4a895e16-f988-432e-a2f3-8b4de61c460e",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 18
+    }
+  },
+  "89415ae7-e7c1-434f-a736-ac68f9216df3": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "89415ae7-e7c1-434f-a736-ac68f9216df3",
+      "participants": [
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+        "FsSvGmOYAXoT6nR4lsKXxlGh8GV57LAbsMXnkDDTa-qlnaehOJGXmXNr2EM1ndMKMVrpGpOsutm-tg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:23:25.4293382+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "eb6f7fe9-11f9-4296-8754-caac9522e200",
+          "deck_code": "CMBQCAIBGIBQIAIBAUHAIBAHBUPSYQQDAEAQCFACAQAQMCQCAQDUS2ADAECACCICAEAQCCYDAQDSEO3Y",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "FsSvGmOYAXoT6nR4lsKXxlGh8GV57LAbsMXnkDDTa-qlnaehOJGXmXNr2EM1ndMKMVrpGpOsutm-tg",
+          "deck_id": "b8a5d735-44ca-4f1c-a639-71b49bd3a38b",
+          "deck_code": "CQCQCAIDCQAQIBAQAECQVGABAMCQGAIJBUCACBABE4WTIBIBAEBS4AIBAQTACAQDBEAQGBASAECQGBAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 10
+    }
+  },
+  "5eaeb223-3bdf-4dc0-9911-b9c5b6b09e61": null,
+  "00732336-3d63-4df4-8eb8-6b5c083f4f0e": null,
+  "a8e5753d-14b9-47e9-9764-3c1852e3d7ab": null,
+  "04492e14-a69e-43e8-9831-26f8cfaaddad": null,
+  "3746fa3b-c4f7-4a8e-abc4-e8d5fc8476b1": null,
+  "0f6152b8-4f76-4680-bf14-32395738aa3f": null,
+  "ebed916b-81fc-4e97-ab78-6305b879ba66": null,
+  "c23f225f-5038-4c1b-b4a3-506b5aa0152b": null,
+  "ccaffccb-9b11-4df4-b087-30f0e449ddbf": null,
+  "6b15b530-3496-420d-8c99-eefec636945c": null,
+  "bc4c8df5-0970-4d52-b0be-f0a3e9bbb773": null,
+  "554ad145-4227-4419-9132-a275adac6db1": null,
+  "1ce11f7a-8b4e-4479-aded-6b0a9931f5a8": null,
+  "f04b293d-850c-41b9-ae52-406fa10b1d65": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "f04b293d-850c-41b9-ae52-406fa10b1d65",
+      "participants": [
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+        "q0pi68wCOmFVlyfz4SSmYpYR1bAW8vzHy3ptLPaWkcTmuN60CqEzkfm4oNCEjsuaoynttVEKKE9lKw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Normal",
+      "game_start_time_utc": "2021-09-22T17:06:38.7236456+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "eb6f7fe9-11f9-4296-8754-caac9522e200",
+          "deck_code": "CMBQCAIBGIBQIAIBAUHAIBAHBUPSYQQDAEAQCFACAQAQMCQCAQDUS2ADAECACCICAEAQCCYDAQDSEO3Y",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "q0pi68wCOmFVlyfz4SSmYpYR1bAW8vzHy3ptLPaWkcTmuN60CqEzkfm4oNCEjsuaoynttVEKKE9lKw",
+          "deck_id": "78719f2b-1d41-4022-8651-07730f0d81ef",
+          "deck_code": "CQCQCAIDCQAQGBASAECAIEADAUBQCCINAQAQIAJGE4WQEAICAMBQEBIDAQDAIAIBAMRQCAYDB4AQKCUYAEAQKAYF",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 24
+    }
+  },
+  "db527f2c-139d-452f-a69d-c25e2a556e60": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "db527f2c-139d-452f-a69d-c25e2a556e60",
+      "participants": [
+        "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+        "0kL2eCKVq1WQCm7n9S6kt5SDo3mxaV2z5iXZAItFSM5GNDojGGbxZtwnbffslMiSSV_ilsTgA64ong"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T14:03:41.7020651+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "M483rW9kJYS4zePSBx3uyb2jAEf-6uRwROt7-Z1rnM80s8_S5S35ZCLSs9mRn9hWbkHMEVghCM4o8g",
+          "deck_id": "eb6f7fe9-11f9-4296-8754-caac9522e200",
+          "deck_code": "CMBQEAIBCQZAGBABAECQ4AYEA4PSYQQDAEAQCCYBAQDWQAQEAEDAUAYBAEAQCAQEAEEQWBIEA4GSEO2JPA",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "0kL2eCKVq1WQCm7n9S6kt5SDo3mxaV2z5iXZAItFSM5GNDojGGbxZtwnbffslMiSSV_ilsTgA64ong",
+          "deck_id": "560a2c4a-a6f9-40e0-b7d5-996c717fceb2",
+          "deck_code": "CICACAYDBUBACAYUFYBQKAYEBEGQKAYJBFKFKVW5AEBACAQDBEAQGCJDAMAQCAYWAEBQSYQBAUBQY",
+          "factions": [
+            "faction_MtTargon_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "391b5b4c-ab6c-46a1-b49d-05492059495e": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "391b5b4c-ab6c-46a1-b49d-05492059495e",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:54:25.5153036+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 24
+    }
+  },
+  "345219e7-d9d1-400d-8324-54f47e901855": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "345219e7-d9d1-400d-8324-54f47e901855",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:50:17.8611900+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 16
+    }
+  },
+  "6eafb010-164c-425b-be18-ff4ae8779977": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "6eafb010-164c-425b-be18-ff4ae8779977",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:42:36.3606195+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 27
+    }
+  },
+  "400b616e-a4f3-419a-999a-b8c529bca1e0": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "400b616e-a4f3-419a-999a-b8c529bca1e0",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:33:38.2709495+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 29
+    }
+  },
+  "abd57fd1-e45f-42e9-947f-792eaa5bdc4c": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "abd57fd1-e45f-42e9-947f-792eaa5bdc4c",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:29:00.2867513+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 14
+    }
+  },
+  "a1f9b85d-dffd-4a84-8f9e-81009d888702": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "a1f9b85d-dffd-4a84-8f9e-81009d888702",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:23:06.9493621+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 25
+    }
+  },
+  "ad43fd64-974f-4ed1-9b38-20b59990d7b7": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "ad43fd64-974f-4ed1-9b38-20b59990d7b7",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:15:37.2194308+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 27
+    }
+  },
+  "cd0a56d1-b7ca-427f-be71-33301e84e1fc": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "cd0a56d1-b7ca-427f-be71-33301e84e1fc",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:10:19.8750707+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_ShadowIsles_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 21
+    }
+  },
+  "132548c8-b1d9-4704-8807-1daf7dd0545f": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "132548c8-b1d9-4704-8807-1daf7dd0545f",
+      "participants": [
+        "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Mods_Power_1",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:05:53.9214531+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "5tNhTAcjH-1q9v2CgTQF7nf78uY0cNApsvzyoXNrK3FkUrENsVBtx61Or-fwURK_1PNsLiZ7KRs6Zw",
+          "deck_id": "",
+          "deck_code": "",
+          "factions": [
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 25
+    }
+  },
+  "3ec7bb94-f15a-4798-a158-c2562b794a60": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "3ec7bb94-f15a-4798-a158-c2562b794a60",
+      "participants": [
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:53:44.0823101+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CQBQCBIGAECQKCRRIVEWBJQBAYBAMBAWD4QC2PACAEBAMEQBAUFBUAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CEBQEAICAMSAGAIFAQUDCBAEAUBTKNRXAQAQCBIZAECAEBYBAQCRAAYBAIGCKMIBAEAQEOI",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 20
+    }
+  },
+  "2b4af028-91c1-4d35-a1cf-4edca034c2b4": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "2b4af028-91c1-4d35-a1cf-4edca034c2b4",
+      "participants": [
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:42:42.0265113+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CQBQCBIGAECQKCRRIVEWBJQBAYBAMBAWD4QC2PACAEBAMEQBAUFBUAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CECQCAQCAMAQEBAGAIAQEKJZAICAIAQHAQAQIGY7EQ2AGAIBAIBACBACCQBAEAQFBEBACAICGEAQGAQU",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 34
+    }
+  },
+  "425f0724-6d4d-4317-b820-5b7bbf90739d": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "425f0724-6d4d-4317-b820-5b7bbf90739d",
+      "participants": [
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:38:38.2780693+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CEBQEAICAMSAGAIFAQUDCBAEAUBTKNRXAQAQCBIZAECAEBYBAQCRAAYBAIGCKMIBAEAQEOI",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 21
+    }
+  },
+  "d9d5208d-aa2c-47dc-8015-792f33686a95": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "d9d5208d-aa2c-47dc-8015-792f33686a95",
+      "participants": [
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:31:28.2183882+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CEBQEAICAMSAGAIFAQUDCBAEAUBTKNRXAQAQCBIZAECAEBYBAQCRAAYBAIGCKMIBAEAQEOI",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "2d179f31-ba8b-4741-9f72-b9a66b8d85d4": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "2d179f31-ba8b-4741-9f72-b9a66b8d85d4",
+      "participants": [
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:23:25.7332571+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CECQCAQCAMAQEBAGAIAQEKJZAICAIAQHAQAQIGY7EQ2AGAIBAIBACBACCQBAEAQFBEBACAICGEAQGAQU",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 41
+    }
+  },
+  "9bab26b7-6e59-4d78-9097-b60903b013ea": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "9bab26b7-6e59-4d78-9097-b60903b013ea",
+      "participants": [
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:10:24.4809129+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CICQCAIBBEAQGAICAECACDQBAQEQ2BADBEETSVTAAQAQGAIJAECASBACAEARIMQDAMESGM2UAIAQGCKVAECACCQ",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CECQCAYECIAQIBAQAIAQGAQUAMAQIJRHFUBQKAYGBEGQIAIBAMRQCAYDB4AQKAYEAIAQIAJUAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "5c0ee2ed-393d-417e-b73d-13847e7c7c30": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "5c0ee2ed-393d-417e-b73d-13847e7c7c30",
+      "participants": [
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:03:35.2415292+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CEBQEAICAMSAGAIFAQUDCBAEAUBTKNRXAQAQCBIZAECAEBYBAQCRAAYBAIGCKMIBAEAQEOI",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CECQCAYECIAQIBAQAIAQGAQUAMAQIJRHFUBQKAYGBEGQIAIBAMRQCAYDB4AQKAYEAIAQIAJUAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "20b70e23-2f49-497a-a162-dd4d0db31673": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "20b70e23-2f49-497a-a162-dd4d0db31673",
+      "participants": [
+        "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+        "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T15:00:12.2410261+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "epwfxX7a7scHaFRyk-4oDK6ewIHpEt1Iemv8zzcAzC32A6tFhDsfZhKSkxn5QLAcpQc1-dyGwXTxGQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "sLFdT8qoruAFq82p26EaUh81OqFPoGzpBdYTD2NWa_kotBLHCnp7D1c88vhdVVlfQUNhAvVZdtDzLw",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CICQCAIBBEAQGAICAECACDQBAQEQ2BADBEETSVTAAQAQGAIJAECASBACAEARIMQDAMESGM2UAIAQGCKVAECACCQ",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 14
+    }
+  },
+  "a76d5485-cb32-458e-9884-44d76aeda884": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "a76d5485-cb32-458e-9884-44d76aeda884",
+      "participants": [
+        "PPpTnDbZ6sgbR6ITunoG1vC4ubiu0zhYDgpS8yxFSGUPcXS10h7b6qbMW9zoFRA2Il7MglcbhRMmCw",
+        "7GCylpdA8ouPP5E5gZeUU15rBc8Jq3PaTeeupqaYswm9tTOh-P1bnBtcn2hhabXeTE7bxFrAaAx2Og"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:24:04.2523903+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "PPpTnDbZ6sgbR6ITunoG1vC4ubiu0zhYDgpS8yxFSGUPcXS10h7b6qbMW9zoFRA2Il7MglcbhRMmCw",
+          "deck_id": "c875fcab-3146-4b6b-af92-baec8c5caf52",
+          "deck_code": "CECACBABBYBACBI5FABAGAIGCYBQCAIDCQZAGAIEAUOQGAIBAEGCOAYBAUJRSNQBAIAQKAIP",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "7GCylpdA8ouPP5E5gZeUU15rBc8Jq3PaTeeupqaYswm9tTOh-P1bnBtcn2hhabXeTE7bxFrAaAx2Og",
+          "deck_id": "73bce541-6f96-406b-9ee0-433f434abbe7",
+          "deck_code": "CQBACAIDG4EAKCQBOSCADGABUYA2OANPAHBACBABAIDC4AICAMEQCAYDBUBQKCRJUAA4AAIBAECQVRQB",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 22
+    }
+  },
+  "292b74f1-8486-4caa-b5ab-df8c3bcb8f0f": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "292b74f1-8486-4caa-b5ab-df8c3bcb8f0f",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "7GCylpdA8ouPP5E5gZeUU15rBc8Jq3PaTeeupqaYswm9tTOh-P1bnBtcn2hhabXeTE7bxFrAaAx2Og"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:12:17.3479082+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "7GCylpdA8ouPP5E5gZeUU15rBc8Jq3PaTeeupqaYswm9tTOh-P1bnBtcn2hhabXeTE7bxFrAaAx2Og",
+          "deck_id": "73bce541-6f96-406b-9ee0-433f434abbe7",
+          "deck_code": "CQBACAIDG4EAKCQBOSCADGABUYA2OANPAHBACBABAIDC4AICAMEQCAYDBUBQKCRJUAA4AAIBAECQVRQB",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 30
+    }
+  },
+  "96ff1162-766e-404e-aa1d-5728590e092d": null,
+  "0d3b77c4-0ba8-4937-a116-8361b0e26758": null,
+  "46f297ea-e016-40e5-890a-14aa91de201f": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "46f297ea-e016-40e5-890a-14aa91de201f",
+      "participants": [
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+        "rddnf0loj4qVhHpxTzIAACH6GcIJ3HSbWv-jYMc58HU-pTQgwEAmAWfeaDS16pKpvNVXxw_Cv_ZvrQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:23:50.0229091+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "4fd342c5-686c-452f-a950-8a33312c963d",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBQ5AEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "rddnf0loj4qVhHpxTzIAACH6GcIJ3HSbWv-jYMc58HU-pTQgwEAmAWfeaDS16pKpvNVXxw_Cv_ZvrQ",
+          "deck_id": "7b2e7b57-f419-4ce5-9a65-80308df5b792",
+          "deck_code": "CQCACAIDCQAQIBAQAMAQIJRNGQCAKAYBAYEQ2BIBAEBS4AIBAQAQCAQDBEAQGBASAECQVGABAIAQCAYLAIBQGDIP",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 32
+    }
+  },
+  "70002c49-8dc6-4cfd-82aa-9261f61dc986": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "70002c49-8dc6-4cfd-82aa-9261f61dc986",
+      "participants": [
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+        "iVg5qqfrHkPXQLb6jHWvuSYo1s59xqHxXJkJNeU3pDES3dw8t6XSr_aFmv2MeUasuBQnVmqvEb03Aw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:15:14.8313293+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "4fd342c5-686c-452f-a950-8a33312c963d",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBQ5AEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "iVg5qqfrHkPXQLb6jHWvuSYo1s59xqHxXJkJNeU3pDES3dw8t6XSr_aFmv2MeUasuBQnVmqvEb03Aw",
+          "deck_id": "115512b4-95c2-43b8-85eb-9e3d83e6c2aa",
+          "deck_code": "CQCACAQEBAAQKBARAIAQIJBUAYCQUBBIGFC2MAN4AECACAIEDMAQIBAHAECQIDACAUFADLYBAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 40
+    }
+  },
+  "04341999-85c2-47b0-bfa6-a318a91641b0": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "04341999-85c2-47b0-bfa6-a318a91641b0",
+      "participants": [
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+        "XNz4-robcXBEU2wbXAwHA7GSMIe9PK_AUojRDcsScDgInp-zTVfmGTSZG10CdkU2JA4d6vie3sPLRA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:07:04.6850378+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "4fd342c5-686c-452f-a950-8a33312c963d",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBQ5AEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "XNz4-robcXBEU2wbXAwHA7GSMIe9PK_AUojRDcsScDgInp-zTVfmGTSZG10CdkU2JA4d6vie3sPLRA",
+          "deck_id": "179fc672-9ced-4aab-805e-16181580f866",
+          "deck_code": "CMCQCAQAAEAQGAAOAECAAAYCAEAASHIFAQDRINTHQEAYEAICAIAQAFI2AMCAODK5QAAQA",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 19
+    }
+  },
+  "c54bdb2b-7c3e-4037-aea8-4eaa4d5e3c23": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "c54bdb2b-7c3e-4037-aea8-4eaa4d5e3c23",
+      "participants": [
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+        "iVg5qqfrHkPXQLb6jHWvuSYo1s59xqHxXJkJNeU3pDES3dw8t6XSr_aFmv2MeUasuBQnVmqvEb03Aw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:52:08.4991131+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "4fd342c5-686c-452f-a950-8a33312c963d",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBQ5AEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "iVg5qqfrHkPXQLb6jHWvuSYo1s59xqHxXJkJNeU3pDES3dw8t6XSr_aFmv2MeUasuBQnVmqvEb03Aw",
+          "deck_id": "115512b4-95c2-43b8-85eb-9e3d83e6c2aa",
+          "deck_code": "CQCACAQEBAAQKBARAIAQIJBUAYCQUBBIGFC2MAN4AECACAIEDMAQIBAHAECQIDACAUFADLYBAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 27
+    }
+  },
+  "0eab24f1-eed4-49da-bf74-5eb56ac277f1": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "0eab24f1-eed4-49da-bf74-5eb56ac277f1",
+      "participants": [
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+        "JaNTnqWVF2Fi_tLXXKY8JOxR077A6n2fPLgt9L_J9-yGl1wPUY3-5AQfH25WQsCBZ2AETyMuM9r8Hg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:40:30.1177897+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "4fd342c5-686c-452f-a950-8a33312c963d",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBQ5AEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "JaNTnqWVF2Fi_tLXXKY8JOxR077A6n2fPLgt9L_J9-yGl1wPUY3-5AQfH25WQsCBZ2AETyMuM9r8Hg",
+          "deck_id": "eefca088-ca7b-415f-8d2e-887eca98a08a",
+          "deck_code": "CECACBABBYBACBJIGYBAGAIGCYCACAIDCQTTEAYBAEAQYAIEAUOQGAIFAEMR2AQBAQAQUAQBAUHRG",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 34
+    }
+  },
+  "9ef12457-d734-46d7-97d4-279b282bebf6": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "9ef12457-d734-46d7-97d4-279b282bebf6",
+      "participants": [
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+        "zqdol3-Uljy-UWmDigaANq5hDW832lJM2hFaUIlaZpgsCMpytMXzLSUYjL29Vu8DK4N5U8VGEyUbKg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:35:21.0610125+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "4fd342c5-686c-452f-a950-8a33312c963d",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBQ5AEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "zqdol3-Uljy-UWmDigaANq5hDW832lJM2hFaUIlaZpgsCMpytMXzLSUYjL29Vu8DK4N5U8VGEyUbKg",
+          "deck_id": "c1e5fdae-251f-4b79-b4f7-5fabb12d6625",
+          "deck_code": "CQCQCAYCAIAQGBASAECAIEAEAECAYHBHFUDAKCRJN52IIANHAGXQCAABAECQVEQB",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 16
+    }
+  },
+  "130086a9-8c0e-433c-9723-72c604e88cde": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "130086a9-8c0e-433c-9723-72c604e88cde",
+      "participants": [
+        "0fIbaB5htf3Jo2j2icoVewp7uZDtVV3MnhW-zvqpQrQ6FP4hhZjhVTztI2imdSsgyxvwEXv3GUGP_Q",
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T14:45:52.9772385+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "0fIbaB5htf3Jo2j2icoVewp7uZDtVV3MnhW-zvqpQrQ6FP4hhZjhVTztI2imdSsgyxvwEXv3GUGP_Q",
+          "deck_id": "dab04b93-0430-4317-a6f6-92a9878d557b",
+          "deck_code": "CMBQCAYABYBACAAJDUCQIBYUGZTYCAMCAECACAIADIAQEAABAECAAAQEAQDQ2XMAAGFACAQBAEACKAIEAABQ",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "01c6fba5-f856-40f9-bd2c-448a196627ea",
+          "deck_code": "CQBQCBIGAECQEBQEDIQC2PAFAUFAORKJMCTACAYBAIDBEAIEAYFACBIKDIAQCAQGD4",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 25
+    }
+  },
+  "78074ff2-3bab-4755-baf8-0a5f30f51c09": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "78074ff2-3bab-4755-baf8-0a5f30f51c09",
+      "participants": [
+        "zqdol3-Uljy-UWmDigaANq5hDW832lJM2hFaUIlaZpgsCMpytMXzLSUYjL29Vu8DK4N5U8VGEyUbKg",
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T14:38:35.8608736+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "zqdol3-Uljy-UWmDigaANq5hDW832lJM2hFaUIlaZpgsCMpytMXzLSUYjL29Vu8DK4N5U8VGEyUbKg",
+          "deck_id": "8af741d8-e338-4103-b821-36aa34b06072",
+          "deck_code": "CQAQUBIKFFQHJBABQUA2AANGAGTQDLYBYAAQEAQBAUMRYAYFBICGTGABAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "01c6fba5-f856-40f9-bd2c-448a196627ea",
+          "deck_code": "CQBQCBIGAECQEBQEDIQC2PAFAUFAORKJMCTACAYBAIDBEAIEAYFACBIKDIAQCAQGD4",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "dd6201ee-2de9-49f5-b312-dc45fd19be97": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "dd6201ee-2de9-49f5-b312-dc45fd19be97",
+      "participants": [
+        "Ynv2q1gMPuu8-UV1Fa-pOGL7oX1IuGn3bB1w0J0mdpBnpTgUvW26-vdG3m3cQagpZI60c54d0AXvPQ",
+        "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T14:04:02.7437386+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Ynv2q1gMPuu8-UV1Fa-pOGL7oX1IuGn3bB1w0J0mdpBnpTgUvW26-vdG3m3cQagpZI60c54d0AXvPQ",
+          "deck_id": "08c23476-74a4-4a28-885a-996aa7631704",
+          "deck_code": "CQDACAQDBEAQGBARAECQGCIBAUCAMAQBAMKC4AYBAQTCONAGAEAQGNYBAECBWAIDAMGQCAYECIAQKCUYAEAQKBARAEAQKBAM",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "EWu8yqev7RfOwt9KYD0322VdFOEcPYLrHqR3-4oCUsWy0Winm4KSxzaLkvDoPXA0xyW2Eu1_N0LGmQ",
+          "deck_id": "44e980a1-bcb4-49ef-bec6-350a852d7fda",
+          "deck_code": "CQCACBAGBIAQKBQBAQCQUB2FJGTACBICAYCBUIBNHQBACAQGAIBAKCUYAHDACAIBAUFAC",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 33
+    }
+  },
+  "da7711f1-2d81-4ce6-85cc-1c48d7db8fb2": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "da7711f1-2d81-4ce6-85cc-1c48d7db8fb2",
+      "participants": [
+        "2Zvrz2O81c98aARCJNrjKCeXbu4nWAGdRc_7FiJATire9dD9ADtwR6pvI7CiA7iL6GF8sFepFdpjQg",
+        "AZ8Bd1ZKIPITo_2fFckm6hSWkuuZLCNL7mBkGKl5dX-q-mgNc0RfkvTXado8wzEkR1blgQ4kYcfggQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:28:51.6988686+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "2Zvrz2O81c98aARCJNrjKCeXbu4nWAGdRc_7FiJATire9dD9ADtwR6pvI7CiA7iL6GF8sFepFdpjQg",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_0",
+          "deck_code": "CQCQCAYABYAQGAQKAECQUKIDAEAASFI5AUAQEBQJBQITSAYBAEBBUAICAADQCBAAAIAQCAICCY",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Ionia_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "AZ8Bd1ZKIPITo_2fFckm6hSWkuuZLCNL7mBkGKl5dX-q-mgNc0RfkvTXado8wzEkR1blgQ4kYcfggQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CICACAQBAIAQGBQIAECAMCQHAIDAWIBBEYWTUPABAMBAMEQUEIBQCAYBCYAQIAIKAIBAMAQF",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "38b54419-8a4c-4782-b582-1e897ff9cf85": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "38b54419-8a4c-4782-b582-1e897ff9cf85",
+      "participants": [
+        "2Zvrz2O81c98aARCJNrjKCeXbu4nWAGdRc_7FiJATire9dD9ADtwR6pvI7CiA7iL6GF8sFepFdpjQg",
+        "AZ8Bd1ZKIPITo_2fFckm6hSWkuuZLCNL7mBkGKl5dX-q-mgNc0RfkvTXado8wzEkR1blgQ4kYcfggQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:18:40.6913748+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "2Zvrz2O81c98aARCJNrjKCeXbu4nWAGdRc_7FiJATire9dD9ADtwR6pvI7CiA7iL6GF8sFepFdpjQg",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBRGAEBQSEY",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "AZ8Bd1ZKIPITo_2fFckm6hSWkuuZLCNL7mBkGKl5dX-q-mgNc0RfkvTXado8wzEkR1blgQ4kYcfggQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CICACAQBAIAQGBQIAECAMCQHAIDAWIBBEYWTUPABAMBAMEQUEIBQCAYBCYAQIAIKAIBAMAQF",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 27
+    }
+  },
+  "f7e2f55e-4ca5-459b-9431-37167a81727b": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "f7e2f55e-4ca5-459b-9431-37167a81727b",
+      "participants": [
+        "AZ8Bd1ZKIPITo_2fFckm6hSWkuuZLCNL7mBkGKl5dX-q-mgNc0RfkvTXado8wzEkR1blgQ4kYcfggQ",
+        "2Zvrz2O81c98aARCJNrjKCeXbu4nWAGdRc_7FiJATire9dD9ADtwR6pvI7CiA7iL6GF8sFepFdpjQg"
+      ]
+    },
+    "info": {
+      "game_mode": "Bo3ChallengeLobby",
+      "game_type": "",
+      "game_start_time_utc": "2021-09-22T17:09:23.6851087+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "AZ8Bd1ZKIPITo_2fFckm6hSWkuuZLCNL7mBkGKl5dX-q-mgNc0RfkvTXado8wzEkR1blgQ4kYcfggQ",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_2",
+          "deck_code": "CMBAKBAGAEBAGBIPAYCAOAITIFCEUUABAICAOFSFAIAQIBZ3AICAMBAH",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "2Zvrz2O81c98aARCJNrjKCeXbu4nWAGdRc_7FiJATire9dD9ADtwR6pvI7CiA7iL6GF8sFepFdpjQg",
+          "deck_id": "0ec2acd7-38a0-4d80-b3cb-4b23681c89e9_live_index_1",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBRGAEBQSEY",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 26
+    }
+  },
+  "683930e3-a8d3-4dfe-80d7-2cc42172aa9d": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "683930e3-a8d3-4dfe-80d7-2cc42172aa9d",
+      "participants": [
+        "iyy1bQM6Z8sDfUXTYsvPy4i1rOkiJHKWdxZSNNYsBqkgcqd-fPp7HeCAI4gjhZLu-VNBjeBt7_gP2g",
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:47:00.6130858+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "iyy1bQM6Z8sDfUXTYsvPy4i1rOkiJHKWdxZSNNYsBqkgcqd-fPp7HeCAI4gjhZLu-VNBjeBt7_gP2g",
+          "deck_id": "187c0e5d-a237-4d06-9427-f91c0b16723b",
+          "deck_code": "CQCQCAYABYAQGAICAECQUKIEAEABIIRHGYCQIAABAMDQQCIBAECAACQCAEAQABYBAIAAC",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "8a4ce838-9671-43d2-bc16-69783e91ac16": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "8a4ce838-9671-43d2-bc16-69783e91ac16",
+      "participants": [
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+        "gY3REKfMuacOrgSaNNKHced2JqEeWnPwiLqdL24shlMMp9dfv3KKKfH1n_2xLly_xRlF5nNXyfrpwg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:38:55.2352609+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "gY3REKfMuacOrgSaNNKHced2JqEeWnPwiLqdL24shlMMp9dfv3KKKfH1n_2xLly_xRlF5nNXyfrpwg",
+          "deck_id": "01234052-8e89-47e0-8ecc-4c99181542e5",
+          "deck_code": "CQBQCAIDG4AQEAYJAUCQUKLUUYA26AOCAEBQCAIDFYAQEBROAYCQUAMEAGMADJYBYAA4MAICAEBQGDICAUFBVIAB",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 24
+    }
+  },
+  "4440ddeb-402c-466b-a59c-2289857dee6d": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "4440ddeb-402c-466b-a59c-2289857dee6d",
+      "participants": [
+        "CNHFYzmsj7Vlzj9sELfscKVfnV_IienCiii0jhMEQDSZi7Xdc79mM5WUdO0ajjRBGUbNgK5EvkDqRw",
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:35:55.6239536+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "CNHFYzmsj7Vlzj9sELfscKVfnV_IienCiii0jhMEQDSZi7Xdc79mM5WUdO0ajjRBGUbNgK5EvkDqRw",
+          "deck_id": "228805ab-6af7-4dcc-8816-9b7c7a7a22b9",
+          "deck_code": "CICACAICBQAQGAQUAIBAEAYGAYBQSCI3EMUDGXADAEAQEAQBAIBASAYDBEJSSVIA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 8
+    }
+  },
+  "e35f26ef-cd4b-42d7-a7cd-cade882ed229": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "e35f26ef-cd4b-42d7-a7cd-cade882ed229",
+      "participants": [
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+        "FsSvGmOYAXoT6nR4lsKXxlGh8GV57LAbsMXnkDDTa-qlnaehOJGXmXNr2EM1ndMKMVrpGpOsutm-tg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:26:36.9319723+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "FsSvGmOYAXoT6nR4lsKXxlGh8GV57LAbsMXnkDDTa-qlnaehOJGXmXNr2EM1ndMKMVrpGpOsutm-tg",
+          "deck_id": "b8a5d735-44ca-4f1c-a639-71b49bd3a38b",
+          "deck_code": "CQDACAIDCQAQGAYNAECAIEABAUFJQAIEAECACJZNGQCAKAYBAQEQ2AQBAECCMAIDAQJAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 24
+    }
+  },
+  "1a0971b8-b5a0-4a72-9e9f-73caaa7b552a": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "1a0971b8-b5a0-4a72-9e9f-73caaa7b552a",
+      "participants": [
+        "JVWOBVy-MJXHldYomVt1_TFntowNCUkBRw7bmDghF57vOnCbwdTunIYMWM5d0BAGEJhe2qWwtLbTDQ",
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T17:37:38.1727026+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "JVWOBVy-MJXHldYomVt1_TFntowNCUkBRw7bmDghF57vOnCbwdTunIYMWM5d0BAGEJhe2qWwtLbTDQ",
+          "deck_id": "3343046a-625a-4181-b0bf-cfc2a1288a38",
+          "deck_code": "CICACAYJBEAQKBAUAUAQIHRHFUZTMBIDAQBAGBINBYAQEAYJCPLQCAA",
+          "factions": [
+            "faction_MtTargon_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 22
+    }
+  },
+  "d415eb12-9376-47bd-a8e3-e4e15fc4bb37": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "d415eb12-9376-47bd-a8e3-e4e15fc4bb37",
+      "participants": [
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+        "rddnf0loj4qVhHpxTzIAACH6GcIJ3HSbWv-jYMc58HU-pTQgwEAmAWfeaDS16pKpvNVXxw_Cv_ZvrQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:56:54.7144017+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "rddnf0loj4qVhHpxTzIAACH6GcIJ3HSbWv-jYMc58HU-pTQgwEAmAWfeaDS16pKpvNVXxw_Cv_ZvrQ",
+          "deck_id": "d0fc67ed-51c3-42e7-9c74-1a8e436f6b53",
+          "deck_code": "CECACAIDCQAQIBAQAQAQIJRHFU2AKBIDAECAMCINAIAQCBABAEBQIEQCAEAQGCYCAMBQ2DY",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "0d66153d-e947-4986-8974-0ebc9caa81bd": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "0d66153d-e947-4986-8974-0ebc9caa81bd",
+      "participants": [
+        "c2twxwGwKdUTAUa6zX_mtkWjY9K7_QSreU8wdwlLP7Ms2oJw0Z9DZy9sLTzG_sIIIUdZbdhkLuknAA",
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:39:19.5425613+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "c2twxwGwKdUTAUa6zX_mtkWjY9K7_QSreU8wdwlLP7Ms2oJw0Z9DZy9sLTzG_sIIIUdZbdhkLuknAA",
+          "deck_id": "70766720-6cbb-4815-aa51-05f1dac3e8c1",
+          "deck_code": "CMBAKBAGAEBAGBIPAUCAOE2BIRFFAAQBAQDAOAYEA4ARMRICAECAMBABAQDTW",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 41
+    }
+  },
+  "55bf8dbf-27f9-4809-b488-d556c3af81fa": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "55bf8dbf-27f9-4809-b488-d556c3af81fa",
+      "participants": [
+        "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+        "Xzjv7BFyjtOJ8qTM_4CQKH1VqytgpGm279Eg4qQy8HMDp2FOEzEwl73MUcUNE5SHNx5uf4Ye6qRc0A"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:32:41.2538317+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "HIDC-sU2KSzkwm6tfxYK0jEjKNum7Giv2Spriw6KyTlLdLYXZErWjLC4YJWz48sbXZNQrZnDZ7-D0g",
+          "deck_id": "c1d572ee-219e-427d-9ff1-5a1988430fd1",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCRRHFOV4YUYAGTACAYBAECS4AIEAU4ACBIKAEBACBIFAMBQCBIPDUVQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "Xzjv7BFyjtOJ8qTM_4CQKH1VqytgpGm279Eg4qQy8HMDp2FOEzEwl73MUcUNE5SHNx5uf4Ye6qRc0A",
+          "deck_id": "9317f2f9-b553-40bc-b9a8-139be78774f5",
+          "deck_code": "CEDQCAQEBIAQGAICAEBQIFABAQAQUAIFAQBAGAIBAEFR4BABAQEBSJBUAIAQCAIEAEAQIGYA",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 17
+    }
+  },
+  "2dad15ca-3568-4051-8810-ff1fd15e18cb": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "2dad15ca-3568-4051-8810-ff1fd15e18cb",
+      "participants": [
+        "sMf45VU3BHKlQRKk7sSfGiuAmB02JtVQ2oNAW7bl_i9B8Bd6HLUuwpwbXxPAB2fu9DjrLx8yTzesTQ",
+        "ahyjdi-9WCH4_Zr9a9XOmjcbkGjoggzCKnaB1iFEmHTEIyBaYuge-CWBihy1Rvg-JxPI9tMXCjTZjg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:44:58.1491950+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "sMf45VU3BHKlQRKk7sSfGiuAmB02JtVQ2oNAW7bl_i9B8Bd6HLUuwpwbXxPAB2fu9DjrLx8yTzesTQ",
+          "deck_id": "5b06b84b-c778-4d16-900c-ea5c304e0e73",
+          "deck_code": "CQCQCAIDCQAQIBAQAECQVGABAMCQGAIJBUCACBABE4WTIBIBAEBS4AIBAQTACAQDBEAQGBASAECQGBAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "ahyjdi-9WCH4_Zr9a9XOmjcbkGjoggzCKnaB1iFEmHTEIyBaYuge-CWBihy1Rvg-JxPI9tMXCjTZjg",
+          "deck_id": "12fb80bf-f1cf-4e26-8cd2-2545942c5d72",
+          "deck_code": "CECACAIDCQAQIBAQAMCQGAIJBUCACBBGE4WTIBABAEBS4AICAMEQCAYECIAQKAYEAQAQCAZTAEAQIAIBAMBQ6AQDAQCQW",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 37
+    }
+  },
+  "2c2be615-b33a-49c6-a6a2-ec4bc9871a91": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "2c2be615-b33a-49c6-a6a2-ec4bc9871a91",
+      "participants": [
+        "sMf45VU3BHKlQRKk7sSfGiuAmB02JtVQ2oNAW7bl_i9B8Bd6HLUuwpwbXxPAB2fu9DjrLx8yTzesTQ",
+        "bUGgld0dmuvLECSfyE5SO_ANM-3JdbwFRPEd-tFmsdmqyZWEXQ8ZLkzM_hLVZMPCQn5olSWkHNPkAg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T06:49:10.0637869+00:00",
+      "game_version": "live_2_15_20",
+      "players": [
+        {
+          "puuid": "sMf45VU3BHKlQRKk7sSfGiuAmB02JtVQ2oNAW7bl_i9B8Bd6HLUuwpwbXxPAB2fu9DjrLx8yTzesTQ",
+          "deck_id": "5b06b84b-c778-4d16-900c-ea5c304e0e73",
+          "deck_code": "CQCQCAIDCQAQIBAQAECQVGABAMCQGAIJBUCACBABE4WTIBIBAEBS4AIBAQTACAQDBEAQGBASAECQGBAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "bUGgld0dmuvLECSfyE5SO_ANM-3JdbwFRPEd-tFmsdmqyZWEXQ8ZLkzM_hLVZMPCQn5olSWkHNPkAg",
+          "deck_id": "239fd72e-b1b7-4dbe-851a-0f17a47c006a",
+          "deck_code": "CECACAIFFAAQIAIOAIBQCBQWAQAQCAYUE4ZAGAIEAUOQEAIBAEGAKAIFB4JRSHJWAA",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 26
+    }
+  },
+  "2a093e20-f54a-4616-a1bf-513c6efe0f53": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "2a093e20-f54a-4616-a1bf-513c6efe0f53",
+      "participants": [
+        "MvsZ9CYd6FnueTFBcs5bKJ5hLwLYsEmR2K3fTlJAvcm4s0ziDzrDvWO3nLnvXFjM3g3_sU4xfeZJfg",
+        "sMf45VU3BHKlQRKk7sSfGiuAmB02JtVQ2oNAW7bl_i9B8Bd6HLUuwpwbXxPAB2fu9DjrLx8yTzesTQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T06:36:01.0766348+00:00",
+      "game_version": "live_2_15_20",
+      "players": [
+        {
+          "puuid": "MvsZ9CYd6FnueTFBcs5bKJ5hLwLYsEmR2K3fTlJAvcm4s0ziDzrDvWO3nLnvXFjM3g3_sU4xfeZJfg",
+          "deck_id": "c11d4532-10d5-431a-b4e3-fcbdd1503fb5",
+          "deck_code": "CQBQEAIDAIUAEAQDAMCAOBIKA4UTCSLAUMA2MAICAECQU5ACAEBQYLQBAECQURI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "sMf45VU3BHKlQRKk7sSfGiuAmB02JtVQ2oNAW7bl_i9B8Bd6HLUuwpwbXxPAB2fu9DjrLx8yTzesTQ",
+          "deck_id": "5b06b84b-c778-4d16-900c-ea5c304e0e73",
+          "deck_code": "CQCQCAIDCQAQIBAQAECQVGABAMCQGAIJBUCACBABE4WTIBIBAEBS4AIBAQTACAQDBEAQGBASAECQGBAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 30
+    }
+  },
+  "bcb62a8c-e8c2-43e4-bb95-f2b84a73e08f": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "bcb62a8c-e8c2-43e4-bb95-f2b84a73e08f",
+      "participants": [
+        "UjneNNpPxlRjW_u_XUVOfQ5Jfj0KkiN-Z2Nit5WISVulsEm-CBwCFe1MaDFm-Ekw9B7zJE7f38Kraw",
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:24:50.1413143+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "UjneNNpPxlRjW_u_XUVOfQ5Jfj0KkiN-Z2Nit5WISVulsEm-CBwCFe1MaDFm-Ekw9B7zJE7f38Kraw",
+          "deck_id": "7ebd6b63-e30f-444c-8ab7-7b2e98016f21",
+          "deck_code": "CQBQCAIDG4AQEAYJA4CQU5EEAGTADJYBV4A4EAOGAEBQCAQGFYAQGAYNAQCQUAJJTAA4AAIBAECQVIAB",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "82995706-952d-4eee-92a5-a9204baa2025",
+          "deck_code": "CQBQCAIFFABAKBIIBEEAKCQBDIYTSXK6MKTACAQBAECRIAQFBICNCAIBAEAQKHI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 42
+    }
+  },
+  "9a71358a-db37-4531-9e1a-ecb5ef259871": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "9a71358a-db37-4531-9e1a-ecb5ef259871",
+      "participants": [
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+        "YO9IEsI1DBVlNn6dAg-TB0cvyHX40DVdUJUdO9WhkmI6fzs9a-TA7M-JDdD0gJIxDA6WguEdTIhyvQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:02:38.1197116+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "82995706-952d-4eee-92a5-a9204baa2025",
+          "deck_code": "CQBQCAIFFABAKBIIBEEAKCQBDIYTSXK6MKTACAQBAECRIAQFBICNCAIBAEAQKHI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "YO9IEsI1DBVlNn6dAg-TB0cvyHX40DVdUJUdO9WhkmI6fzs9a-TA7M-JDdD0gJIxDA6WguEdTIhyvQ",
+          "deck_id": "bcfdcb1c-a125-42b2-b411-4d06a248846f",
+          "deck_code": "CECQCAIDCQAQGBASAECAIEADAUBQCCINAUAQIAJGE4WTIAQBAMBQ2AQFAMCAMAIBAIBQS",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 50
+    }
+  },
+  "daeba512-0321-44f7-9d49-01a207734aa2": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "daeba512-0321-44f7-9d49-01a207734aa2",
+      "participants": [
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+        "_wf8gjkpeF6vpl_QSzDQ9b2k3LUf88FJ-YqQ0IRKkpe4LMWeK7ZF1EVC_QD8lgak20l876WgijvQHQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:57:27.9870621+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "82995706-952d-4eee-92a5-a9204baa2025",
+          "deck_code": "CQBQCAIFFABAKBIIBEEAKCQBDIYTSXK6MKTACAQBAECRIAQFBICNCAIBAEAQKHI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "_wf8gjkpeF6vpl_QSzDQ9b2k3LUf88FJ-YqQ0IRKkpe4LMWeK7ZF1EVC_QD8lgak20l876WgijvQHQ",
+          "deck_id": "b8b81c0b-43c9-4b5b-9d6e-3d566b583299",
+          "deck_code": "CEDACAIEBAAQEAQKAEBQEAQBAQBA6AIFAIMQKAICBMGCYMRZAMAQCAQGAEAQILQDAMBAKCIUAA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 25
+    }
+  },
+  "7b3202b1-3647-4b4b-8862-310715c133af": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "7b3202b1-3647-4b4b-8862-310715c133af",
+      "participants": [
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+        "rddnf0loj4qVhHpxTzIAACH6GcIJ3HSbWv-jYMc58HU-pTQgwEAmAWfeaDS16pKpvNVXxw_Cv_ZvrQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:51:31.8966078+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "82995706-952d-4eee-92a5-a9204baa2025",
+          "deck_code": "CQBQCAIFFABAKBIIBEEAKCQBDIYTSXK6MKTACAQBAECRIAQFBICNCAIBAEAQKHI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "rddnf0loj4qVhHpxTzIAACH6GcIJ3HSbWv-jYMc58HU-pTQgwEAmAWfeaDS16pKpvNVXxw_Cv_ZvrQ",
+          "deck_id": "7b2e7b57-f419-4ce5-9a65-80308df5b792",
+          "deck_code": "CQCACAIDCQAQIBAQAMAQIJRNGQCAKAYBAYEQ2BIBAEBS4AIBAQAQCAQDBEAQGBASAECQVGABAIAQCAYLAIBQGDIP",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 26
+    }
+  },
+  "d2316dcd-535d-4d01-8c10-9eb10bd4f748": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "d2316dcd-535d-4d01-8c10-9eb10bd4f748",
+      "participants": [
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+        "3DRvAGZbPlJpJRrwaBWqM07MPIZ0_nswxZhh1N4V4ktsUjTbv-V_wyVTOLKHs8cWJZcFdzB2bgH8hw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:34:30.9720210+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "eeb51c33-e3cb-42ab-828a-718505725f02",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAABACAQGFUBQGCITKVNQ",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "3DRvAGZbPlJpJRrwaBWqM07MPIZ0_nswxZhh1N4V4ktsUjTbv-V_wyVTOLKHs8cWJZcFdzB2bgH8hw",
+          "deck_id": "474ede1a-d915-4e34-883d-a9fb011236b5",
+          "deck_code": "CIBQCAQBAIAQIBQKA4BAMCYUEAQS2OR4AIAQGBQIAQBAMAQSEITAGAICAYCQCBABBIAQKBQB",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 19
+    }
+  },
+  "61c72e28-e518-47b8-85f5-9f5ef1f9c4d8": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "61c72e28-e518-47b8-85f5-9f5ef1f9c4d8",
+      "participants": [
+        "PPpTnDbZ6sgbR6ITunoG1vC4ubiu0zhYDgpS8yxFSGUPcXS10h7b6qbMW9zoFRA2Il7MglcbhRMmCw",
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:31:03.3394356+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "PPpTnDbZ6sgbR6ITunoG1vC4ubiu0zhYDgpS8yxFSGUPcXS10h7b6qbMW9zoFRA2Il7MglcbhRMmCw",
+          "deck_id": "c875fcab-3146-4b6b-af92-baec8c5caf52",
+          "deck_code": "CECACBABBYBACBI5FABAGAIGCYBQCAIDCQZAGAIEAUOQGAIBAEGCOAYBAUJRSNQBAIAQKAIP",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "46fd5604-f21f-48aa-bf08-e6840fd95814",
+          "deck_code": "CECQCAYECIAQIBAQAIAQGFBOAMCQGAIJBUCACBBGE4WTIAYBAECACAIDAMHQCBIDAQAQCAQDBE",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 12
+    }
+  },
+  "7f84c7ac-17be-4968-94e1-56d1d016656c": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "7f84c7ac-17be-4968-94e1-56d1d016656c",
+      "participants": [
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+        "KTf_WMXxlWUpUtVS0tZhbuT_Ipyg2NDKKUELRAtOqWtQTCRqlyfx46cXXiBi9jRKb0u5ydR0fR7pPA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:05:45.8926861+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "a00b8915-d915-489d-b5a9-34e8d0ef96a9",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "KTf_WMXxlWUpUtVS0tZhbuT_Ipyg2NDKKUELRAtOqWtQTCRqlyfx46cXXiBi9jRKb0u5ydR0fR7pPA",
+          "deck_id": "0dcca779-1af0-4ce5-863e-36f808546604",
+          "deck_code": "CQBQCBIGAECAKCSFJFQKMAIGAIDAIGQ7EAWTYAIDAUFAOGWGAEAQCBIKGE",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "019ef71f-7cbf-437a-a5d6-b9242cc40c75": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "019ef71f-7cbf-437a-a5d6-b9242cc40c75",
+      "participants": [
+        "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+        "2WYjVSDgkv6dauBuJjQk8PFItuwCw8ORApv_NhkQd6Egi3bOwB1M_QfMY0Mmv8O9pBIwph1WAHwEmA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:03:39.3137629+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "xZRXzkPt_MxH2l-wuqLgrB4yM6VnjgV97EfhbchZ7TgmetcBd8VDTqo0pGl95M1cSjnBd9cypIChAQ",
+          "deck_id": "a00b8915-d915-489d-b5a9-34e8d0ef96a9",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDSSMKJMB2KGANGAEAACAIFBJCQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "2WYjVSDgkv6dauBuJjQk8PFItuwCw8ORApv_NhkQd6Egi3bOwB1M_QfMY0Mmv8O9pBIwph1WAHwEmA",
+          "deck_id": "de74a5d8-1e1f-4ef4-91c6-4500b06b36fa",
+          "deck_code": "CMBAGBIHA4FQ4BQEA4BRYJJGJRTACBQEA4GTMSCZNJWQCAIEA47A",
+          "factions": [
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "497ea5ee-de8b-4531-943c-c8a131e185b0": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "497ea5ee-de8b-4531-943c-c8a131e185b0",
+      "participants": [
+        "vRpmAs6f9aMZQfovT_6p1628u8vkXpfNZKXBSVfjWhAlLbP9oDVVExu6LwFWX5uM2bYFMp1NKTXHxA",
+        "QYeCJWztcqotv1rCxboehBDJyCZw8CHDBBrFsSYj-niejIATUzzvIketbMcG1pilvpq7pEjFUCcZxg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:35:58.9727579+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "vRpmAs6f9aMZQfovT_6p1628u8vkXpfNZKXBSVfjWhAlLbP9oDVVExu6LwFWX5uM2bYFMp1NKTXHxA",
+          "deck_id": "efa9dc4b-3827-430d-be2b-928c1d8cda47",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQBYFBIDSSMKJOSRQDJQBAEAQKCTAAEBAKCSFSEAQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "QYeCJWztcqotv1rCxboehBDJyCZw8CHDBBrFsSYj-niejIATUzzvIketbMcG1pilvpq7pEjFUCcZxg",
+          "deck_id": "630ea697-0e9b-4440-8704-88fa83fb165e",
+          "deck_code": "CICACAQBAIAQGBQIAECAMCQHAIDAWFBAEEWTUPABAUBAMAQFCIRCMAA",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 18
+    }
+  },
+  "0644a106-7f27-4938-944c-c9d0e439747b": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "0644a106-7f27-4938-944c-c9d0e439747b",
+      "participants": [
+        "vRpmAs6f9aMZQfovT_6p1628u8vkXpfNZKXBSVfjWhAlLbP9oDVVExu6LwFWX5uM2bYFMp1NKTXHxA",
+        "iE1QqUxDx9sbOvd047vJSv6MlGWtKoC-jUnxFM1570-ZfQSierKX9YNp_gagZs0Fp6IlgdpMMSRz1A"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:28:35.5168884+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "vRpmAs6f9aMZQfovT_6p1628u8vkXpfNZKXBSVfjWhAlLbP9oDVVExu6LwFWX5uM2bYFMp1NKTXHxA",
+          "deck_id": "efa9dc4b-3827-430d-be2b-928c1d8cda47",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQBYFBIDSSMKJOSRQDJQBAEAQKCTAAEBAKCSFSEAQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "iE1QqUxDx9sbOvd047vJSv6MlGWtKoC-jUnxFM1570-ZfQSierKX9YNp_gagZs0Fp6IlgdpMMSRz1A",
+          "deck_id": "6908e8b9-707b-4a89-bb0b-fa8daf1b88f0",
+          "deck_code": "CQBQCAIFFABQKBIIBEGAMBIKDI4V2XTCUYAQGAIEAU4AEAIFCQOQEBIKAHIQCAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 16
+    }
+  },
+  "197d86da-bb36-43d0-a220-8ae449715e84": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "197d86da-bb36-43d0-a220-8ae449715e84",
+      "participants": [
+        "DGba4rZbfFINDwJ-lEJw3CCYsJo-u8uUIY0xv66GWQmiqAz2qyOCJa6WjMOysLc0CH9lYxmLWZHY9g",
+        "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:41:48.6912590+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "DGba4rZbfFINDwJ-lEJw3CCYsJo-u8uUIY0xv66GWQmiqAz2qyOCJa6WjMOysLc0CH9lYxmLWZHY9g",
+          "deck_id": "b4ab7e08-6b0b-47e1-9925-a8d35971cae4",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQBYFBIDTCSLAOSRQDJQBAEAQKCRJAIAQCBAIAECQURI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+          "deck_id": "c4e2b2a7-762d-4a3c-85ef-7848964601e4",
+          "deck_code": "CIBQCAICBQBQEAQDAYEQIAYJBERTHVYBAQAQGAQUAIAQEARRAIBAEBIIAIBQSG2VAIAQGCJJAECAEFA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 25
+    }
+  },
+  "ea5c236e-d7ea-4cfc-87ee-40fcd48edebd": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "ea5c236e-d7ea-4cfc-87ee-40fcd48edebd",
+      "participants": [
+        "8_q9kc1ZRBy7QklqcQrb7vqEtl3o1cfakc9480qZ_WCcFtKGpdmmK2AVaVwUhQGSsHkte-VhGJWQNw",
+        "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T19:22:05.9103364+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "8_q9kc1ZRBy7QklqcQrb7vqEtl3o1cfakc9480qZ_WCcFtKGpdmmK2AVaVwUhQGSsHkte-VhGJWQNw",
+          "deck_id": "327c596c-2306-432e-87f8-9874c94ba90b",
+          "deck_code": "CQDQCAQDBEAQGBARAECQVGABAECQGCIBAUCAMAQBAMKC4AYBAQTCONAEAEAQGNYBAECBWAIDAQJACBIECEBACAYDBUAQKBAM",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+          "deck_id": "c4e2b2a7-762d-4a3c-85ef-7848964601e4",
+          "deck_code": "CIBQCAICBQBQEAQDAYEQIAYJBERTHVYBAQAQGAQUAIAQEARRAIBAEBIIAIBQSG2VAIAQGCJJAECAEFA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "debc5370-248c-4fac-b22e-d2c8227033bb": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "debc5370-248c-4fac-b22e-d2c8227033bb",
+      "participants": [
+        "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+        "Zop_PwqIuqqJKpsP0Ao6FcuOUpBlhfP_gRkdIgd0cMh16Z_N0XYwE5eclEx3UdMso_55DEITU4WXiw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:40:52.8083023+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+          "deck_id": "c4e2b2a7-762d-4a3c-85ef-7848964601e4",
+          "deck_code": "CIBQCAICBQBQEAQDAYEQIAYJBERTHVYBAQAQGAQUAIAQEARRAIBAEBIIAIBQSG2VAIAQGCJJAECAEFA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "Zop_PwqIuqqJKpsP0Ao6FcuOUpBlhfP_gRkdIgd0cMh16Z_N0XYwE5eclEx3UdMso_55DEITU4WXiw",
+          "deck_id": "4e04fcef-a935-4d17-8483-26f1535bd16a",
+          "deck_code": "CQBQEBIHA4FQIBAHBUTESWIEAUFBWSNDAGTACAQCAQDRYJICAUDQIEICAECAPCQBAECQUAI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 25
+    }
+  },
+  "a677b243-3bad-481c-b889-f91779b98c3f": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "a677b243-3bad-481c-b889-f91779b98c3f",
+      "participants": [
+        "UjneNNpPxlRjW_u_XUVOfQ5Jfj0KkiN-Z2Nit5WISVulsEm-CBwCFe1MaDFm-Ekw9B7zJE7f38Kraw",
+        "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:25:56.7585704+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "UjneNNpPxlRjW_u_XUVOfQ5Jfj0KkiN-Z2Nit5WISVulsEm-CBwCFe1MaDFm-Ekw9B7zJE7f38Kraw",
+          "deck_id": "fb29e26a-b363-4e5d-a835-188c03d9c787",
+          "deck_code": "CQBAIBIKA5CUTJQBAYBAMBA2EAWTUPADAECAMCQBAUDACAQFBINGAAICAIDBEHY",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+          "deck_id": "c4e2b2a7-762d-4a3c-85ef-7848964601e4",
+          "deck_code": "CIBQCAICBQBQEAQDAYEQIAYJBERTHVYBAQAQGAQUAIAQEARRAIBAEBIIAIBQSG2VAIAQGCJJAECAEFA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 34
+    }
+  },
+  "c30c1ac0-4f46-4d30-b741-223348816a87": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "c30c1ac0-4f46-4d30-b741-223348816a87",
+      "participants": [
+        "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+        "xOBV8KiQ9P5LaviBu5tqdAs2QQJrAPe3JTcb7rxBlQOZLHuXoJB2ppPxMJOuSYug-qeYmrScS3R3sA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:08:43.5250481+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "vStfje38YEdpj7DNqSSqJZOkLPPPn1ES2Dm5mhy067Su7Hy1u4Yb7wwHnN-ek9ERgzZpIgv_u_AQNQ",
+          "deck_id": "c4e2b2a7-762d-4a3c-85ef-7848964601e4",
+          "deck_code": "CIBQCAICBQBQEAQDAYEQIAYJBERTHVYBAQAQGAQUAIAQEARRAIBAEBIIAIBQSG2VAIAQGCJJAECAEFA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "xOBV8KiQ9P5LaviBu5tqdAs2QQJrAPe3JTcb7rxBlQOZLHuXoJB2ppPxMJOuSYug-qeYmrScS3R3sA",
+          "deck_id": "03540623-f9f2-4862-bbbd-8367636afb71",
+          "deck_code": "CICACAQGDAAQGBQRAICQMBILA4BQSCJDFAVDGYWXAEAQEAQGDUWQGAICAYTACAYJKUAQIBQO",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 37
+    }
+  },
+  "0f175d7b-f6fb-441e-befb-efe46737612e": null,
+  "7c58dd35-41c1-4971-b605-6d27a7e9bcbf": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "7c58dd35-41c1-4971-b605-6d27a7e9bcbf",
+      "participants": [
+        "YK5dH3bmlGCsQUS8BWStsmc9FkAg1eduuBtLXQ6qVpkuajO8CXbqdGGZkP1JLgydwIcWrFPTtV74Yw",
+        "s1fjWVMrFf26RyFWOAvcr1JdUeop0SsLNaVFaaIt-Qfc6WNmXirlr9ZYQ7JoppDP_RKupA-Fd90qFw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T17:20:05.3216651+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "YK5dH3bmlGCsQUS8BWStsmc9FkAg1eduuBtLXQ6qVpkuajO8CXbqdGGZkP1JLgydwIcWrFPTtV74Yw",
+          "deck_id": "315398f7-3a30-4891-b460-d41270ba2ba1",
+          "deck_code": "CQDACAQDBEAQGBARAECQVGABAECQGCICAECCIJQDAEBRILRXAMAQGAYNAECQIEICAECBWJYFAEAQGMYBAECACAIDAQJACBAEAMAQKBAM",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "s1fjWVMrFf26RyFWOAvcr1JdUeop0SsLNaVFaaIt-Qfc6WNmXirlr9ZYQ7JoppDP_RKupA-Fd90qFw",
+          "deck_id": "2eea4a2b-a522-4484-853d-955d1136114c",
+          "deck_code": "CQAQUBIKE5QGS5EFAGMADIABUYA2OANPAEBQCAIEBABACBIZDQBAKCUEAHDACAA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 43
+    }
+  },
+  "1512af0b-57a1-44a2-a102-5b8f7c607966": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "1512af0b-57a1-44a2-a102-5b8f7c607966",
+      "participants": [
+        "8_q9kc1ZRBy7QklqcQrb7vqEtl3o1cfakc9480qZ_WCcFtKGpdmmK2AVaVwUhQGSsHkte-VhGJWQNw",
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:37:43.7422610+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "8_q9kc1ZRBy7QklqcQrb7vqEtl3o1cfakc9480qZ_WCcFtKGpdmmK2AVaVwUhQGSsHkte-VhGJWQNw",
+          "deck_id": "327c596c-2306-432e-87f8-9874c94ba90b",
+          "deck_code": "CQDQCAQDBEAQGBARAECQVGABAECQGCIBAUCAMAQBAMKC4AYBAQTCONAEAEAQGNYBAECBWAIDAQJACBIECEBACAYDBUAQKBAM",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 49
+    }
+  },
+  "01cb2810-4ef1-483f-84a8-72e4aefbfa82": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "01cb2810-4ef1-483f-84a8-72e4aefbfa82",
+      "participants": [
+        "1ZhISJ2KNwUbX6TGsx17zDCiYQS_1sGit83Wc-zU4Mwpc-7TwCGb0szQAlDHLazJ-ZTpmGHyi0sUjg",
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:12:56.4896884+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "1ZhISJ2KNwUbX6TGsx17zDCiYQS_1sGit83Wc-zU4Mwpc-7TwCGb0szQAlDHLazJ-ZTpmGHyi0sUjg",
+          "deck_id": "97bfcdfa-d932-4410-a522-212e0c4e5c69",
+          "deck_code": "CMBQCAYABYBACAAJDUDAIBYNCQ3GPAIBQIAQGAICAAAQEBAAAIBQGBAHLWAADCQBAEAQCAA2",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 31
+    }
+  },
+  "b5334b26-54fa-4c10-a654-2c68e852a727": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "b5334b26-54fa-4c10-a654-2c68e852a727",
+      "participants": [
+        "VTTpqbfIsy5PbkaLWIhYtQofO33P04g4e8JzKNMZbyqYpnyUb8sj6QbzdPlIvUXV1aSqPhacYpiDBw",
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T18:05:38.8661383+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "VTTpqbfIsy5PbkaLWIhYtQofO33P04g4e8JzKNMZbyqYpnyUb8sj6QbzdPlIvUXV1aSqPhacYpiDBw",
+          "deck_id": "ef531efe-efbf-4680-bfcc-5926393d2384",
+          "deck_code": "CECACAIDCQAQIBAQAQAQIJRHFU2AKBIDAECAMCINAIAQCBABAEBQIEQCAEAQGCYCAMBQ2DY",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 22
+    }
+  },
+  "fa0fb78f-901d-47b4-b5ff-fb8951d365cb": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "fa0fb78f-901d-47b4-b5ff-fb8951d365cb",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "rIKMvUbLkoo8BwWh5dKUjuG1httHVvfAzU-SAY0OKS9fY1pown-yTCBAo0pp9ih0AAnFvTZc_0ptGw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T17:03:03.6006974+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "rIKMvUbLkoo8BwWh5dKUjuG1httHVvfAzU-SAY0OKS9fY1pown-yTCBAo0pp9ih0AAnFvTZc_0ptGw",
+          "deck_id": "2ce9a6c9-627e-4c60-b00a-66dccac29bc7",
+          "deck_code": "CQBQCAYEAMBACBBUHACQKCRROSMADJQBV4AQGAIEAQIQCBIEBQCAKCQBAQUNCAIEAEAQIGYBAICACAIDAQFQCBIKS4AQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 46
+    }
+  },
+  "7ef2c2dd-a5d7-4ee1-8f79-e572d9debcf1": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "7ef2c2dd-a5d7-4ee1-8f79-e572d9debcf1",
+      "participants": [
+        "KqLx1PiJGEXaMvpx3iVzLd0M9MaUcNHkS3FFzbtXoAq12Qcubet4hFzEQ_rR-AXv-1NX6jpO4ecd1A",
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:42:07.3215860+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "KqLx1PiJGEXaMvpx3iVzLd0M9MaUcNHkS3FFzbtXoAq12Qcubet4hFzEQ_rR-AXv-1NX6jpO4ecd1A",
+          "deck_id": "1a518983-b26a-4fe5-b002-1e7929a667cf",
+          "deck_code": "CQCACAQEBIBQCBAIDE2AGBIEAIDA4BAFBICEKZFEAEBACAIEHIAQKBANAIAQCBBHAICQURVGAE",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 36
+    }
+  },
+  "7079f708-5ebe-4688-9c15-98e8bcbbb39f": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "7079f708-5ebe-4688-9c15-98e8bcbbb39f",
+      "participants": [
+        "KTf_WMXxlWUpUtVS0tZhbuT_Ipyg2NDKKUELRAtOqWtQTCRqlyfx46cXXiBi9jRKb0u5ydR0fR7pPA",
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:31:36.7736403+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "KTf_WMXxlWUpUtVS0tZhbuT_Ipyg2NDKKUELRAtOqWtQTCRqlyfx46cXXiBi9jRKb0u5ydR0fR7pPA",
+          "deck_id": "c625841d-09fe-4df0-a750-71942d3b304c",
+          "deck_code": "CICACAIBA4AQEAICAECAMCQJAIDBEFBAEERCMLJ2HQAQCAQGD4BACAIBAQAQIAIJ",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 26
+    }
+  },
+  "d1a7054b-a2c1-46b5-a88a-55b83a704bd3": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "d1a7054b-a2c1-46b5-a88a-55b83a704bd3",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "1ZhISJ2KNwUbX6TGsx17zDCiYQS_1sGit83Wc-zU4Mwpc-7TwCGb0szQAlDHLazJ-ZTpmGHyi0sUjg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:24:10.5882749+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "1ZhISJ2KNwUbX6TGsx17zDCiYQS_1sGit83Wc-zU4Mwpc-7TwCGb0szQAlDHLazJ-ZTpmGHyi0sUjg",
+          "deck_id": "bbebdf69-3537-4e2a-b8e6-d085b703fbfd",
+          "deck_code": "CQBQEAQDAMCAGAIDAIGCQCAFBIDTCRKJMB2KGANGAEAACAIBAMXA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 23
+    }
+  },
+  "aa553703-42c4-47f9-845e-f02ab9b202c5": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "aa553703-42c4-47f9-845e-f02ab9b202c5",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "Bzp2Pf5smPX-ktcqV5mVrdiBs04DpX5YEs9wP2fS0bPn47vjWqLD292M33FuSMw6AMKB6PZArWfVyg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T16:02:52.4076254+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "Bzp2Pf5smPX-ktcqV5mVrdiBs04DpX5YEs9wP2fS0bPn47vjWqLD292M33FuSMw6AMKB6PZArWfVyg",
+          "deck_id": "dac37e8c-fe5e-4ed8-b8c0-89302d059d1e",
+          "deck_code": "CICACAIDFYAQGBQPAQBAMBA2EYWQIAQDAEDQQCIFAEBAMOQBAIBQGAIDAYEACBAGBIAQIAYCAA",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 29
+    }
+  },
+  "200aad30-221f-419d-b6a7-bf0bd4088290": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "200aad30-221f-419d-b6a7-bf0bd4088290",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "KTf_WMXxlWUpUtVS0tZhbuT_Ipyg2NDKKUELRAtOqWtQTCRqlyfx46cXXiBi9jRKb0u5ydR0fR7pPA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:39:00.2415964+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "KTf_WMXxlWUpUtVS0tZhbuT_Ipyg2NDKKUELRAtOqWtQTCRqlyfx46cXXiBi9jRKb0u5ydR0fR7pPA",
+          "deck_id": "0dcca779-1af0-4ce5-863e-36f808546604",
+          "deck_code": "CQBQCBIGAECAKCSFJFQKMAIGAIDAIGQ7EAWTYAIDAUFAOGWGAEAQCBIKGE",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 35
+    }
+  },
+  "7201f63d-1435-4c5d-8652-6d5885568e18": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "7201f63d-1435-4c5d-8652-6d5885568e18",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "UjneNNpPxlRjW_u_XUVOfQ5Jfj0KkiN-Z2Nit5WISVulsEm-CBwCFe1MaDFm-Ekw9B7zJE7f38Kraw"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:27:59.4771800+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "UjneNNpPxlRjW_u_XUVOfQ5Jfj0KkiN-Z2Nit5WISVulsEm-CBwCFe1MaDFm-Ekw9B7zJE7f38Kraw",
+          "deck_id": "7a6c72f1-b0cc-4ac2-9556-2e08e3a0249b",
+          "deck_code": "CQCACAQEBAAQKBAMAIAQIJBUAYCQUBBIGGTADLYBXQAQIAIBAQNQCBAEA4AQKCQBAECQIEICAEBQICYBAUFBU",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 36
+    }
+  },
+  "4aaada28-1b9a-4584-b186-4aed6b04e8ef": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "4aaada28-1b9a-4584-b186-4aed6b04e8ef",
+      "participants": [
+        "XNz4-robcXBEU2wbXAwHA7GSMIe9PK_AUojRDcsScDgInp-zTVfmGTSZG10CdkU2JA4d6vie3sPLRA",
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:17:32.4815256+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "XNz4-robcXBEU2wbXAwHA7GSMIe9PK_AUojRDcsScDgInp-zTVfmGTSZG10CdkU2JA4d6vie3sPLRA",
+          "deck_id": "6698d913-b05a-4fc7-8422-c72bbb5dee5c",
+          "deck_code": "CQBQCAQEBABACBBEGQDQKCQEFAYZQANGAGXQDPABAQAQCBA3AECAIBYBAUFACAIFAQIQEAIDAQFQCBIKDI",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 29
+    }
+  },
+  "866e324f-e31b-456c-803f-ceb41963693e": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "866e324f-e31b-456c-803f-ceb41963693e",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "VQ1b59Oke3A60u-ABVim56O2rsW8mwwJQ9-CyVGgOUKiIMsg-h31ORxghAyLp35Ea3NmtYKjo7WPLA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T15:07:23.5980325+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQMBIKA4NEKSMYAGTACAICAIDAEHYA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "VQ1b59Oke3A60u-ABVim56O2rsW8mwwJQ9-CyVGgOUKiIMsg-h31ORxghAyLp35Ea3NmtYKjo7WPLA",
+          "deck_id": "bb38482f-fb7e-4729-a4a8-eaf870a93d2a",
+          "deck_code": "CQDACAICFEAQGAQUAECQVGABAIBAEAYFAICAIAQHAMAQIHZEGQCACAIEDMAQEAQJAEBAIBQBAUCAYAICAEBAEMI",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 32
+    }
+  },
+  "b813dbba-0fb4-4a6e-ba89-d2bc802bc778": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "b813dbba-0fb4-4a6e-ba89-d2bc802bc778",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "7zyeaQrOrVQpT-DWLkzN-Lge0Bza-BlZn8o6q9E21Goh2AJ2i5qgrZKzFSHd2mfOZVd7G4ODgO_0CQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "AI",
+      "game_start_time_utc": "2021-09-22T14:57:53.6551242+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "7fecbbb0-35f4-4c0e-a9ba-1acd7a168a5a",
+          "deck_code": "CQBQCBIGAECQKCQHGFEYYAORAEDQEBQECENCAIJGHQAACAIFBIFA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 45
+    }
+  },
+  "d509fd02-cc33-4b13-ab99-68946d9c1a27": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "d509fd02-cc33-4b13-ab99-68946d9c1a27",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "rRV0_Lq3icxROr7S9kxTGhYba2TMx0Fb4hNfCejnSOm8QbybK_0sDE9ctJ7b7Km8YVPvJvPif914EQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T14:42:11.4183263+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "51c4a4b5-e15d-4f0e-9a18-e2ab3d5696f0",
+          "deck_code": "CQCACBAGBIAQKBQBAQBAMBA2EAWQIBIKA5CUTJQBAIBAEBQCD4BQKCQ2TAA4MAIA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Bilgewater_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "rRV0_Lq3icxROr7S9kxTGhYba2TMx0Fb4hNfCejnSOm8QbybK_0sDE9ctJ7b7Km8YVPvJvPif914EQ",
+          "deck_id": "41b5aa46-e2de-4fa1-9328-d84fe4989cd8",
+          "deck_code": "CQBQCAIFFABQKBIIBEFQIBIKLVPGFJQBAIAQIBJYAYCQUAIEDI4ZQAORAEAQEAIFCMKA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 40
+    }
+  },
+  "47a73c6c-ef8a-43cb-94fd-b16335c90e64": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "47a73c6c-ef8a-43cb-94fd-b16335c90e64",
+      "participants": [
+        "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+        "CzdcDcn8s1eYTYa5oVFr4wj-aiFk-BM6Gam_yUoJBERBDaxzI9TTJjokCg4xQ4mNDEUv_DN9bRhUxg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-22T14:05:19.5730407+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "Oqt29LTymCrWWRw3OXuklj2xxlmxKUeMpbBMi9sh-Ep9gRBY-yQijQHboGAfaCj6034ky65EbCisNQ",
+          "deck_id": "f4d6da84-c7b1-4be9-a4f1-b3ad7e6987f0",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEBAEBQUDUAA",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "CzdcDcn8s1eYTYa5oVFr4wj-aiFk-BM6Gam_yUoJBERBDaxzI9TTJjokCg4xQ4mNDEUv_DN9bRhUxg",
+          "deck_id": "7c639c98-c40b-48cd-8746-2b9b701dc96a",
+          "deck_code": "CECACBABBYBACBJIGYBAGAIGCYCACAIDCQTTEAYBAEAQYAIEAUOQGAIFCMMR2AQBAMAQEAQBAUAQ6",
+          "factions": [
+            "faction_Freljord_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 40
+    }
   }
 }
