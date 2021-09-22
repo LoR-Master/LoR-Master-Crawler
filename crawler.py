@@ -2,7 +2,6 @@ from Models import riot
 from Models import network
 from Models import setting
 from Models.setting import Server
-from Models import player
 from Models import utility
 from Models import local
 from Models import leaderboard
