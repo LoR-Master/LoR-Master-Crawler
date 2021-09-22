@@ -23,7 +23,7 @@ class Riot:
 
     def loadJson(self):
         try:
-            with open(self.server + 'save/matchDetails.json', 'r', encoding='utf-8') as fp:
+            with open('save/'+ self.server + 'matchDetails.json', 'r', encoding='utf-8') as fp:
                 self.matchDetails = json.load(fp)
             with open('data/' + self.server + 'riotIds.json', 'r', encoding='utf-8') as fp:
                 self.riotIds = json.load(fp)
@@ -35,11 +35,11 @@ class Riot:
 
     def save(self):
         os.makedirs('data', exist_ok=True)
-        with open(self.server + 'matchDetails.json', 'w+', encoding='utf-8') as fp:
+        with open(self.server + 'matchDetails.json', 'w+', encoding='utf-8', indent=2) as fp:
             json.dump(self.matchDetails, fp)
-        with open('data/' + self.server + 'riotIds.json', 'w+', encoding='utf-8') as fp:
+        with open('data/' + self.server + 'riotIds.json', 'w+', encoding='utf-8', indent=2) as fp:
             json.dump(self.riotIds, fp)
-        with open('data/' + self.server + 'playerNames.json', 'w+', encoding='utf-8') as fp:
+        with open('data/' + self.server + 'playerNames.json', 'w+', encoding='utf-8', indent=2) as fp:
             json.dump(self.playerNames, fp)
 
     # Should not use cache, because you cannot identify capital letters of playernames
