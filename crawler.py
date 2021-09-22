@@ -133,7 +133,7 @@ def validateJSONFile(filePath):
         return None
 
 
-jsonFileName = ['americas.json', 'asia.json', 'asia.json',
+jsonFileName = ['americas.json', 'asia.json', 'europe.json',
                 'americasmatchDetails.json', 'europematchDetails.json', 'asiamatchDetails.json']
 
 
