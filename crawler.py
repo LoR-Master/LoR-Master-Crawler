@@ -150,9 +150,8 @@ def saveGithub():
     except Exception as e:
         print('saveGithub error', e)
         return
-
+    print('Pushed#############################################')
 
 while True:
-    print('Pushed##################################')
     saveGithub()
-    time.sleep(1200)
+    time.sleep(300)
