@@ -33,11 +33,11 @@ class Riot:
 
     def save(self):
         os.makedirs('data', exist_ok=True)
-        with open(self.server + 'matchDetails.json', 'w+', encoding='utf-8', indent=2) as fp:
-            json.dump(self.matchDetails, fp)
-        with open('data/' + self.server + 'riotIds.json', 'w+', encoding='utf-8', indent=2) as fp:
+        with open(self.server + 'matchDetails.json', 'w+', encoding='utf-8') as fp:
+            json.dump(self.matchDetails, fp, indent=2)
+        with open('data/' + self.server + 'riotIds.json', 'w+', encoding='utf-8') as fp:
             json.dump(self.riotIds, fp)
-        with open('data/' + self.server + 'playerNames.json', 'w+', encoding='utf-8', indent=2) as fp:
+        with open('data/' + self.server + 'playerNames.json', 'w+', encoding='utf-8') as fp:
             json.dump(self.playerNames, fp)
 
     # Should not use cache, because you cannot identify capital letters of playernames
@@ -71,7 +71,7 @@ class Riot:
             puuid = idDetails.get('puuid')
             gameName = idDetails.get('gameName')
             tagLine = idDetails.get('tagLine')
-            if puuid is not None:
+            if puuid is not None and gameName is not None:
                 self.riotIds[masterId] = puuid
                 self.playerNames[puuid] = gameName, tagLine
                 self.save()

@@ -6,7 +6,7 @@ jsonPlayerName = ['americas.json', 'asia.json', 'asia.json']
 
 def loadJson(fileName):
     try:
-        with open('save/' + fileName, 'r') as fp:
+        with open('' + fileName, 'r') as fp:
             matches = json.load(fp)
             print(fileName, 'total matches: ', len(matches))
             return matches
