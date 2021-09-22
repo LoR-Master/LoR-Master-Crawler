@@ -1,7 +1,5 @@
 import requests
-from Models.setting import Server
 import constants as cs
-import Models.utility as utility
 from Models.leaderboard import getRankStr, updateLeaderboard
 
 

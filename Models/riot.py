@@ -1,5 +1,3 @@
-from Models.setting import Server
-from Models.network import Network
 import Models.network
 import requests
 import aiohttp
