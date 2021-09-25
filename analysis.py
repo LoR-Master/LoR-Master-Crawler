@@ -6,11 +6,11 @@ jsonPlayerName = ['americas.json', 'asia.json', 'asia.json']
 
 def loadJson(fileName):
     try:
-        with open('save/' + fileName, 'r') as fp:
+        with open('' + fileName, 'r') as fp:
             matches = json.load(fp)
             print(fileName, 'total matches: ', len(matches))
             return matches
-    except IOError as e:
+    except Exception as e:
         print('No cache found', e)
         return
 
@@ -18,6 +18,8 @@ def loadJson(fileName):
 def analyse(fileName):
     noneMatchNum = 0
     matches = loadJson(fileName)
+    if matches is None:
+        return
     rankMatches = {}
     for key in matches:
         if matches[key] is None:

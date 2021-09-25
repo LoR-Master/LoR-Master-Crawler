@@ -147,10 +147,10 @@ def saveGithub():
         repo.git.commit('-m', 'test commit')
         repo.git.push()
     except Exception as e:
-        print('saveGithub error', e)
+        print('saveGithub error !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', e)
         return
     print('Pushed#############################################')
 
 while True:
     saveGithub()
-    time.sleep(300)
+    time.sleep(600)
