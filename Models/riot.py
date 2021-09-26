@@ -192,10 +192,24 @@ class Riot:
                 self.save()
             return None
         else:
-            self.matchDetails[matchId] = detail
-            self.save()
-        if detail is None:
-            print('比赛内容服务返回空')
+            # this could still raise an AttributeError if example_dict['info'] exists but is not a dict
+            gameType = detail.get('info', {}).get('game_type')
+            if  gameType != 'Ranked':
+                self.matchDetails[matchId] = None
+                print(gameType, 'not support')
+                return None
+            else:
+                try:
+                    playerPuuids = detail['metadata']['participants']
+                except Exception as e:
+                    print('processMatchDetail error', e)
+                playernames = []
+                for puuid in playerPuuids:
+                    name, tag = self.getPlayerName(puuid)
+                    playernames.append(name + '#' + tag)
+                detail['playernames'] = playernames                
+                self.matchDetails[matchId] = detail
+                self.save()
         return detail
 
     # 在main中使用和inspector中使用
