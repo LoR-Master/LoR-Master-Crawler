@@ -143,8 +143,8 @@ def saveGithub():
     try:
         repo = git.Repo("")
         repo.git.config('--global', 'user.name', "LMT [bot]")
-        repo.git.add('--all')
-        repo.git.commit('-m', 'test commit')
+        files = repo.git.add('--all')
+        repo.git.commit('-m', files[0: 80])
         
         repo.git.push()
     except Exception as e:
