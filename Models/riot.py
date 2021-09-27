@@ -4,6 +4,7 @@ import aiohttp
 import asyncio
 import json
 import os
+import constants
 
 
 class Riot:
@@ -194,7 +195,8 @@ class Riot:
         else:
             # this could still raise an AttributeError if example_dict['info'] exists but is not a dict
             gameType = detail.get('info', {}).get('game_type')
-            if  gameType != 'Ranked':
+            gameMode = detail.get('info', {}).get('game_mode')
+            if  gameType != 'Ranked' and gameMode not in constants.SUPPORTED_MODE:
                 self.matchDetails[matchId] = None
                 print(gameType, 'not support')
                 return None
