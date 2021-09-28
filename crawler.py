@@ -120,6 +120,7 @@ e.start()
 a = threading.Thread(target=f, args=(Server.ASIA,))
 a.start()
 
+changedFileStr = ''
 
 def validateJSONFile(filePath):
     try:
@@ -128,6 +129,8 @@ def validateJSONFile(filePath):
             os.makedirs('save', exist_ok=True)
             with open('save/' + filePath, 'w+', encoding='utf-8') as fp:
                 json.dump(dataDict, fp, ensure_ascii=False, indent=2)
+                global changedFileStr
+                changedFileStr += filePath + ' '
     except Exception as e:
         print(filePath, 'invalid json!')
         return None
@@ -143,8 +146,8 @@ def saveGithub():
     try:
         repo = git.Repo("")
         repo.git.config('--global', 'user.name', "LMT [bot]")
-        files = repo.git.add('--all')
-        repo.git.commit('-m', repo.head.commit.diff()[0][0: 80])
+        repo.git.add('--all')
+        repo.git.commit('-m', changedFileStr[0:80])
         
         repo.git.push()
     except Exception as e:
