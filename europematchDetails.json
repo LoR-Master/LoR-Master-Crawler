@@ -5434,5 +5434,50 @@
       "U\u00e7an Protein#TR1",
       "Cyber\u00d0ragoN#EUW"
     ]
+  },
+  "3e018768-20a5-4085-98a7-983d9f11f46d": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "3e018768-20a5-4085-98a7-983d9f11f46d",
+      "participants": [
+        "oTgRs15NIUQqTnqdzRXN5rivgXIy5BYRLxkVjjjfD774WSLqDqyYIOOZ7rL88bZxDSe8rjhrILdF4g",
+        "Fn8H9siVgSIKMHqXRQ657vQfhS1wJCHZ7B9BSdMKCB5rdyxbl4y3LFVievbspuOICpZ4Njnn2UHwsA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-28T11:43:49.4149929+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "oTgRs15NIUQqTnqdzRXN5rivgXIy5BYRLxkVjjjfD774WSLqDqyYIOOZ7rL88bZxDSe8rjhrILdF4g",
+          "deck_id": "9e98273e-d01c-4a38-882f-2cf4fedf25e7",
+          "deck_code": "CECQCAIDCQAQGBASAECAIEAEAECACJRHFUCAKAYBAYEQ2AYBAECDIAIDAMHQCBIDAQAQCAIDBM",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "Fn8H9siVgSIKMHqXRQ657vQfhS1wJCHZ7B9BSdMKCB5rdyxbl4y3LFVievbspuOICpZ4Njnn2UHwsA",
+          "deck_id": "1c5f501f-c481-4717-ac52-5fb2750746f7",
+          "deck_code": "CQCACAQEBAAQKBARAIAQIJBUAQCQUBBIGG6ACBABAECBWAIEAQDQCBIEBQCAKCQBIWTADLYBAIAQGBALAECQVGAB",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 30
+    },
+    "playernames": [
+      "U\u00e7an Protein#TR1",
+      "shockwave#TR1"
+    ]
   }
 }
