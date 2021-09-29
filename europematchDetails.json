@@ -30848,5 +30848,50 @@
       "1010103#EUW",
       "Exonarf#euw"
     ]
+  },
+  "e0e5f4be-3522-46b0-a4ae-654e833258f3": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "e0e5f4be-3522-46b0-a4ae-654e833258f3",
+      "participants": [
+        "2v4f1IGgB4vjCwimiposl5y1inXN3Cr1HUPI3Bq7TOi3d40K42AbVvpF-W2CNgjXwhNobWcOhooNaQ",
+        "fjVkGRrMLEeymINKZildum7j9XN7So-rvuTOZnJv12nX7N-MdO6W_NoyJoNlvnlQSJl970JBjiSHUQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-09-28T18:04:13.5318660+00:00",
+      "game_version": "live_2_16_17",
+      "players": [
+        {
+          "puuid": "2v4f1IGgB4vjCwimiposl5y1inXN3Cr1HUPI3Bq7TOi3d40K42AbVvpF-W2CNgjXwhNobWcOhooNaQ",
+          "deck_id": "e1326b4f-ad30-4ebf-8c2f-113392f49124",
+          "deck_code": "CICQCAQGDAAQGBQRAECAMDQCAUDAKCYHAMEQSIZIFIZWFVYBAEAQGCK3AIAQEBRKAEBQSVI",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "fjVkGRrMLEeymINKZildum7j9XN7So-rvuTOZnJv12nX7N-MdO6W_NoyJoNlvnlQSJl970JBjiSHUQ",
+          "deck_id": "894b2c5b-c376-494f-9011-697297823c71",
+          "deck_code": "CQBQCAIFFABAKBIIBEDQKCQEGE4V2XTCUYAQCAYFBIAZQAORAEBACBIKDIBQCBIUDUXA",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 26
+    },
+    "playernames": [
+      "1010103#EUW",
+      "Geminello Alvi#EUW"
+    ]
   }
 }
