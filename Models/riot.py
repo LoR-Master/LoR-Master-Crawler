@@ -183,10 +183,10 @@ class Riot:
             if 'Retry-After' in header:
                 print('服务器正忙,请等待', header['Retry-After'], '秒')
                 second = header['Retry-After']
-
                 # switchAPI will make crawler sleep, but the matchId is skipped
                 Models.network.switchAPI(second)
-                return None
+                # retry after waiting, skipped matchId will be check again
+                self.getDetail(self, matchId)
             if detailsRequest.status_code == 404:
                 self.matchDetails[matchId] = None
                 self.save()
