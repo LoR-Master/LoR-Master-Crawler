@@ -187,6 +187,7 @@ class Riot:
                 Models.network.switchAPI(second)
                 # retry after waiting, skipped matchId will be check again
                 self.getDetail(self, matchId)
+                return None
             if detailsRequest.status_code == 404:
                 self.matchDetails[matchId] = None
                 self.save()
