@@ -186,7 +186,7 @@ class Riot:
                 # switchAPI will make crawler sleep, but the matchId is skipped
                 Models.network.switchAPI(second)
                 # retry after waiting, skipped matchId will be check again
-                self.getDetail(self, matchId)
+                #failed to retry???
                 return None
             if detailsRequest.status_code == 404:
                 self.matchDetails[matchId] = None
