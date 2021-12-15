@@ -53574,5 +53574,50 @@
       "Venndulum#1119",
       "Zorig Dungu#NA1"
     ]
+  },
+  "f2dfb387-b5cf-478c-ab57-abae18d8ee66": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "f2dfb387-b5cf-478c-ab57-abae18d8ee66",
+      "participants": [
+        "iyNeFbx-Qsa8YNzcjKFuer6UXqNrMmxuvExxwTpaL8h7fcOovRRwCE6RVlnxd1t5nDSyXcOUOkn6Gw",
+        "-41jmePXkUJrTvlx3KLF9f45amz9aYLWTexiM1IPU0hugtr0dpC7fdi4NeSKG8ADgAjQqLdT9Wrghg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-12-14T22:16:22.9920814+00:00",
+      "game_version": "live_2_21_3",
+      "players": [
+        {
+          "puuid": "iyNeFbx-Qsa8YNzcjKFuer6UXqNrMmxuvExxwTpaL8h7fcOovRRwCE6RVlnxd1t5nDSyXcOUOkn6Gw",
+          "deck_id": "c16b8ef8-b296-4bd2-b6aa-825de9d27c98",
+          "deck_code": "CQDACAQDBEAQGBARAECQVGABAIAQGLRXAIAQIJBUAMCQIBQJBQCACAIDGMAQGAYNAECQIDICAECBWHYA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "-41jmePXkUJrTvlx3KLF9f45amz9aYLWTexiM1IPU0hugtr0dpC7fdi4NeSKG8ADgAjQqLdT9Wrghg",
+          "deck_id": "61431dda-b7dd-4525-b44f-06f2f3bd9829",
+          "deck_code": "CQCQCAYCAUAQIAQPAECQUOQCAUBAIGQGAEBAQCYMFQZDSAYBAMBBIAIEA6FACAIFAIKQCAIBAIYQ",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 31
+    },
+    "playernames": [
+      "Zorig Dungu#NA1",
+      "Beastllama#2545"
+    ]
   }
 }
