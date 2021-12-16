@@ -54928,5 +54928,50 @@
       "Sir Donald#2525",
       "Sorry#leb"
     ]
+  },
+  "fda62c61-6c9e-4616-9827-8309cfbec94a": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "fda62c61-6c9e-4616-9827-8309cfbec94a",
+      "participants": [
+        "rg9LChXKIE86dvA1ZkN9YnyrcUtAA2y65UADy9cW9cKFaAoW_9cpE-cvpLhRje_LmHPYBv1JvVBnrQ",
+        "YbOGDscFhp6m6SHIq8bs7Gd6ZnCB4H0FFLuSXXJa2w8lSDLoJ3sXru9uf2piXHgPZf1-g3CuVkwxwA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-12-16T13:13:54.0591902+00:00",
+      "game_version": "live_2_21_3",
+      "players": [
+        {
+          "puuid": "rg9LChXKIE86dvA1ZkN9YnyrcUtAA2y65UADy9cW9cKFaAoW_9cpE-cvpLhRje_LmHPYBv1JvVBnrQ",
+          "deck_id": "7f0f4158-613b-4cd0-b40f-9f5aa169366d",
+          "deck_code": "CQDACAYCAUAQGBIQAECAEDYBAUFDUAIFAICAIAICBQWDEOIEAECAEFABAUBAOAQBAIFTCAQCAICQUAIBAMBBI",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_ShadowIsles_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "YbOGDscFhp6m6SHIq8bs7Gd6ZnCB4H0FFLuSXXJa2w8lSDLoJ3sXru9uf2piXHgPZf1-g3CuVkwxwA",
+          "deck_id": "b835fcdc-cc4d-49fd-ba4f-ef11120a2b37",
+          "deck_code": "CQBACAQDBEDAKCQ2OSCADJQBV4A4EAICAEAQGNYIAUFACKJ2NKMADIABYAA4MAIBAEAQGLQ",
+          "factions": [
+            "faction_BandleCity_Name",
+            "faction_Noxus_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 22
+    },
+    "playernames": [
+      "Sir Donald#2525",
+      "Iaith2#EUW"
+    ]
   }
 }
