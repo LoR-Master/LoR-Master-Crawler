@@ -69452,5 +69452,50 @@
       "Sir Donald#2525",
       "den#R8015"
     ]
+  },
+  "ef05f6fc-c186-436d-891d-c8cbe760f0cc": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "ef05f6fc-c186-436d-891d-c8cbe760f0cc",
+      "participants": [
+        "wM0Qm-c_cGS9cTjeoR-jWQh3FNjTCgN_2aDRfqnNLn3rk3OYMxdbj91WrtgCDF-UfFLwC6B3a6d2hw",
+        "IUCz6Gch9Cm5h1WiEp9TfMSjCfL-cHGIDbgoCYaJHKbIIu-1mp2YVUp5vXBbsNlD_3RLKDEB0y2tRA"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-12-17T12:48:54.3860543+00:00",
+      "game_version": "live_2_21_3",
+      "players": [
+        {
+          "puuid": "wM0Qm-c_cGS9cTjeoR-jWQh3FNjTCgN_2aDRfqnNLn3rk3OYMxdbj91WrtgCDF-UfFLwC6B3a6d2hw",
+          "deck_id": "af45e605-d33e-4861-a310-0f2d05b9129d",
+          "deck_code": "CIBQCAQBAIAQIBQKA4BAMCYUEAQS2OR4AMAQGBQIAECQMAIEAIDAEERCEYAQCAYBCY",
+          "factions": [
+            "faction_Bilgewater_Name",
+            "faction_Freljord_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "IUCz6Gch9Cm5h1WiEp9TfMSjCfL-cHGIDbgoCYaJHKbIIu-1mp2YVUp5vXBbsNlD_3RLKDEB0y2tRA",
+          "deck_id": "0df22a4a-300c-4e73-852c-d27b95e5d97b",
+          "deck_code": "CICQCAYABYAQIAACAIAQACI2AMBQSGZDHIBQKCIDAUDAGAICAAAQCAYAAEBAKCIIBIBACAIABUAQGCKV",
+          "factions": [
+            "faction_Demacia_Name",
+            "faction_MtTargon_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 22
+    },
+    "playernames": [
+      "Nujwk#EUW",
+      "\u0160aMuRaI#EUNE"
+    ]
   }
 }
