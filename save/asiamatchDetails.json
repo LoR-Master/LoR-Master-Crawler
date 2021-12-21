@@ -79630,5 +79630,95 @@
       "딜탱 이렐리아#KR1",
       "All Creation#JP1"
     ]
+  },
+  "b6a1eed7-1086-4f82-aa54-0644ddc5ccd1": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "b6a1eed7-1086-4f82-aa54-0644ddc5ccd1",
+      "participants": [
+        "PX-brP6RzSkVV3hzQ_uo91mKfG3wj1YfW0mpkRX0pV7jjT3QyUag-Z0fXtj1VxROMKKrJxvroCyQNw",
+        "FyNEaIqZVICtV8Y24ozdEWWrm6fbUAnieQ-tPbBkNmoCezPbh2X-VhO5UGLpou6CTjQ74ScyheY9Hg"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-12-21T00:52:20.0955408+00:00",
+      "game_version": "live_2_21_3",
+      "players": [
+        {
+          "puuid": "PX-brP6RzSkVV3hzQ_uo91mKfG3wj1YfW0mpkRX0pV7jjT3QyUag-Z0fXtj1VxROMKKrJxvroCyQNw",
+          "deck_id": "4a3bfa7a-5179-4bd6-b12d-5dbcb82fae7f",
+          "deck_code": "CEDQCAQEAMAQGAQCAEBQIEQBAQCBAAQBAIGBKAQFAICAOBIBAQGCMJZNGQAACAIBAIBA",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 0
+        },
+        {
+          "puuid": "FyNEaIqZVICtV8Y24ozdEWWrm6fbUAnieQ-tPbBkNmoCezPbh2X-VhO5UGLpou6CTjQ74ScyheY9Hg",
+          "deck_id": "4d899042-57a7-4560-a2e9-f62671cd58e6",
+          "deck_code": "CQDACAQCBIAQIAQPAECQUOQBAUBAIAQDAICRIBABAIFQYLBSAIAQKAQ2AMAQECBRHEBACBACA4AQIB4KAE",
+          "factions": [
+            "faction_Ionia_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 1
+        }
+      ],
+      "total_turn_count": 10
+    },
+    "playernames": [
+      "ぷんにゃらぽんべ#0709",
+      "All Creation#JP1"
+    ]
+  },
+  "b7b14203-5834-4d15-a5ad-bcc5e2d15f3a": {
+    "metadata": {
+      "data_version": "2",
+      "match_id": "b7b14203-5834-4d15-a5ad-bcc5e2d15f3a",
+      "participants": [
+        "49FwhZl68ugP1vUsrS3qLod2Ibj8YvLacPc-DC4vYya5uC3I7p2a9z_VsBd7liAi6KwB6Ea-FPm6xA",
+        "jPVENcv6fMERpvhizq3X4pgO87rfLh0YrqB3GLAKEbSwNhKTzDeMLJD0VvJPROlIq9zsxtkHDHs5gQ"
+      ]
+    },
+    "info": {
+      "game_mode": "Constructed",
+      "game_type": "Ranked",
+      "game_start_time_utc": "2021-12-21T01:00:02.0016639+00:00",
+      "game_version": "live_2_21_3",
+      "players": [
+        {
+          "puuid": "49FwhZl68ugP1vUsrS3qLod2Ibj8YvLacPc-DC4vYya5uC3I7p2a9z_VsBd7liAi6KwB6Ea-FPm6xA",
+          "deck_id": "90818fa7-d4e4-4561-8f09-73e5e9e6dd15",
+          "deck_code": "CQDQCBAECAAQKCSYAECQGDIBAUCBIAQDAQCREAYBAMBBGFADAECCOLJUAIAQCAZHAEAQIDAA",
+          "factions": [
+            "faction_Noxus_Name",
+            "faction_Piltover_Name"
+          ],
+          "game_outcome": "win",
+          "order_of_play": 1
+        },
+        {
+          "puuid": "jPVENcv6fMERpvhizq3X4pgO87rfLh0YrqB3GLAKEbSwNhKTzDeMLJD0VvJPROlIq9zsxtkHDHs5gQ",
+          "deck_id": "5c78977f-b1bb-4745-a2b0-688c7a890d15",
+          "deck_code": "CMBQCAIEGQCAIBABAICAOBYEA4ARYJ2NJ5JFGAIBAUCAYAQBAMCAWAIEA6FAC",
+          "factions": [
+            "faction_Piltover_Name",
+            "faction_Shurima_Name"
+          ],
+          "game_outcome": "loss",
+          "order_of_play": 0
+        }
+      ],
+      "total_turn_count": 20
+    },
+    "playernames": [
+      "DSKINPISKCOOL#1071",
+      "あかさ#8837"
+    ]
   }
 }
